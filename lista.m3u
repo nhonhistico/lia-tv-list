@@ -33,8 +33,6 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1 tvg-id="FM2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fm_dos_logo.png/200px-Fm_dos_logo.png" group-title="Radios",FM2
 https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
 
-#EXTINF:-1 tvg-id="PlutoTV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pluto_TV_logo.svg/200px-Pluto_TV_logo.svg.png" group-title="VOD",Pluto TV
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?includeExtendedEvents=true&CMCD=... [TODO EL TOKEN COMPLETO]
 
 #EXTINF:-1 tvg-id="VOD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Public_Domain_Movies_Logo.png/200px-Public_Domain_Movies_Logo.png" group-title="VOD",Película Clásica 1
 https://ia800207.us.archive.org/17/items/LaCasaDeLaTroya1936/LaCasaDeLaTroya1936.mp4
