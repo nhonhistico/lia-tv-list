@@ -32,6 +32,19 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
 #EXTINF:-1 tvg-id="FM2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fm_dos_logo.png/200px-Fm_dos_logo.png" group-title="Radios",FM2
 https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
+#EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO HD
+http://181.189.244.253:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO2 HD
+http://181.189.244.253:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-plus" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Plus HD
+http://181.189.244.253:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-family" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Family HD
+http://181.189.244.253:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Xtreme
 
 
 
