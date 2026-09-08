@@ -61,7 +61,7 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533399.m3u8
 #EXTINF:-1 tvg-id="lch2339" tvg-logo="https://i.imgur.com/FQ21pgZ.png" group-title="Deportes Peru", PE | ESPN 5 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533400.m3u8
 #EXTINF:-1 tvg-id="lch2341" tvg-logo="https://i.imgur.com/PcKR2NE.png" group-title="Deportes Peru", PE | ESPN 6 HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533401.m3u8
+http://190.95.11.223:8000/play/211/index.m3u8
 #EXTINF:-1 tvg-id="lch2340" tvg-logo="https://i.imgur.com/UIXhfUK.png" group-title="Deportes Peru", PE | ESPN 7 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533402.m3u8
 #EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX HD
@@ -75,7 +75,7 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430830.m3u8
 #EXTINF:-1 tvg-id="DEPORTES | TNT SPORTS" tvg-logo="noimage.png" group-title="Cine y Series", DEPORTES | TNT HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414474.m3u8
 #EXTINF:-1 tvg-id="CL | TNT SPORTS PREMIUM CHILE" tvg-logo="https://i.imgur.com/5DQoJ0r.png" group-title="Deportes Chile", CL | TNT SPORTS PREMIUM CHILE
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430650.m3u8
+http://190.95.11.223:8000/play/233/index.m3u8
 #EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327917.m3u8
 #EXTINF:-1 tvg-id="AR |ESPN PREMIUM 2" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM 2
