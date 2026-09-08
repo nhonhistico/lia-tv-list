@@ -11,7 +11,6 @@ http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1 tvg-id="0106" tvg-name="CHV" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/chv.png" group-title="Nacionales",CHV
 https://redirector.dps.live/hls/chv/playlist.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" group-title="Nacionales",Canal 13
-
 #EXTINF:-1 tvg-id="zonalatina.cl" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="Chile", CL | ZONA LATINA HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273734.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="Chile", CL | VIA X HD
@@ -22,139 +21,112 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/272253.m3u8
 # Argentina
 #EXTINF:-1 tvg-id="ARG | A24 HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" group-title="Argentina", ARG | A24 HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5760.m3u
-
 #EXTINF:-1 tvg-id="ARG | AMERICA TV HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png" group-title="Argentina", ARG | AMERICA TV HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5754.m3u
-
 #EXTINF:-1 tvg-id="ARG | C5N HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C5NHD/EXPORTACION_WEB/SS/C5NHD_t-290x163.png" group-title="Argentina", ARG | C5N HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5752.m3u
-
 #EXTINF:-1 tvg-id="ARG | CANAL 26" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANAL26/EXPORTACION_WEB/SS/CANAL26_t-290x163.png" group-title="Argentina", ARG | CANAL 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
 #EXTINF:-1 tvg-id="ARG | EL NUEVE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANAL9/EXPORTACION_WEB/SS/CANAL9_t-290x163.png" group-title="Argentina", ARG | EL NUEVE HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5749.m3u
-
 #EXTINF:-1 tvg-id="ARG | EL TRECE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ELTRECE/EXPORTACION_WEB/SS/ELTRECE_t-290x163.png" group-title="Argentina", ARG | EL TRECE HD
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1 tvg-id="ARG | NET TV HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NETTV/EXPORTACION_WEB/SS/NETTV_t-290x163.png" group-title="Argentina", ARG | NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ARG | TELEFE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" group-title="Argentina", ARG | TELEFE HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5733.m3u
-
 #EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" group-title="Argentina", ARG | TN HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5769.m3u
-
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
 
 # Noticias
-
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TVN_logo.svg/200px-TVN_logo.svg.png" group-title="Chile",TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mega_Chile_Logo.png/200px-Mega_Chile_Logo.png" group-title="Chile",MEGA
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Chilevisi%C3%B3n_logo.png/200px-Chilevisi%C3%B3n_logo.png" group-title="Chile",CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_13_Chile_Logo.png/200px-Canal_13_Chile_Logo.png" group-title="Chile",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_13_Chile_Logo.png/200px-Canal_13_Chile_Logo.png" group-title="Chile",T13 - Teletrece
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USACH.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Usach_logo.png/200px-Usach_logo.png" group-title="Chile",USACH
-https://stv4.janus.cl/playlist/stream.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Energeek_logo.png/200px-Energeek_logo.png" group-title="Chile",EnerGeek
-https://cdn.energeek.cl/hls/energeekretro.m3u8
-
 #EXTINF:-1 tvg-id="DWLATAM.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="FMAmadeus.ar" tvg-logo="https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD" group-title="Argentina",FM Amadeus
+# Deportes
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="https://i.imgur.com/TbpKMDl.png" group-title="Deportes Peru", PE | ESPN HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533395.m3u8
+#EXTINF:-1 tvg-id="lch3952" tvg-logo="https://i.imgur.com/ZJE4gd6.png" group-title="Deportes Peru", PE | ESPN 2 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533397.m3u8
+#EXTINF:-1 tvg-id="lch2776" tvg-logo="https://i.imgur.com/X9QuOaI.png" group-title="Deportes Peru", PE | ESPN 3 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533398.m3u8
+#EXTINF:-1 tvg-id="lch2813" tvg-logo="https://i.imgur.com/ixB0osm.png" group-title="Deportes Peru", PE | ESPN 4 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533399.m3u8
+#EXTINF:-1 tvg-id="lch2339" tvg-logo="https://i.imgur.com/FQ21pgZ.png" group-title="Deportes Peru", PE | ESPN 5 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533400.m3u8
+#EXTINF:-1 tvg-id="lch2341" tvg-logo="https://i.imgur.com/PcKR2NE.png" group-title="Deportes Peru", PE | ESPN 6 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533401.m3u8
+#EXTINF:-1 tvg-id="lch2340" tvg-logo="https://i.imgur.com/UIXhfUK.png" group-title="Deportes Peru", PE | ESPN 7 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533402.m3u8
+#EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533403.m3u8
+#EXTINF:-1 tvg-id="lch3298" tvg-logo="https://i.imgur.com/iiecqdd.png" group-title="Deportes Peru", PE | M DEPORTES HD
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", PE | DS SPORT HD
+http://cablemaxsigloxxi.com:8000/play/a09o/index.m3u8
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533409.m3u8
+#EXTINF:-1 tvg-id="CL | TNT SPORTS" tvg-logo="https://i.imgur.com/XDRrrHk.png" group-title="Deportes Chile", CL | TNT SPORTS CHILE
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430830.m3u8
+#EXTINF:-1 tvg-id="DEPORTES | TNT SPORTS" tvg-logo="noimage.png" group-title="Cine y Series", DEPORTES | TNT HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414474.m3u8
+#EXTINF:-1 tvg-id="CL | TNT SPORTS PREMIUM CHILE" tvg-logo="https://i.imgur.com/5DQoJ0r.png" group-title="Deportes Chile", CL | TNT SPORTS PREMIUM CHILE
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430650.m3u8
+#EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327917.m3u8
+#EXTINF:-1 tvg-id="AR | TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes Argentina", AR | TYC SPORTS
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327918.m3u8
+#EXTINF:-1 tvg-id="AR | TNT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="Deportes Argentina", AR | TNT SPORTS
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327919.m3u8
+#EXTINF:-1 tvg-id="CO | Win Sports HD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="Deportes Colombia", CO | Win Sports HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437742.m3u8
+#EXTINF:-1 tvg-id="CO | Win Sports+ Plus HD" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="Deportes Colombia", CO | Win Sports+ Plus HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437740.m3u8
+#EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", DEPORTES | CLARO SPORTS
+http://186.33.61.182:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="DEPORTES | GOLF CHANNEL" tvg-logo="https://i.imgur.com/vbyxlvR.png" group-title="Deportes Internacional", DEPORTES | GOLF CHANNEL
+http://186.33.61.182:8000/play/a031/index.m3u8
+
+# Musica
+
+#EXTINF:-1 tvg-id="AR | FM AMADEUS" tvg-logo="https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD" group-title="Argentina", AR | FM AMADEUS
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD
 
-#EXTINF:-1 tvg-id="Cooperativa.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radio_Cooperativa_Chile_logo.png/200px-Radio_Cooperativa_Chile_logo.png" group-title="Radios",Radio Cooperativa
-http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
+# Movies
 
-#EXTINF:-1 tvg-id="FM2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fm_dos_logo.png/200px-Fm_dos_logo.png" group-title="Radios",FM2
-https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
-#EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO HD
-http://181.189.244.253:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO2 HD
-http://181.189.244.253:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-plus" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Plus HD
-http://181.189.244.253:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-family" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Family HD
-http://181.189.244.253:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="💎 Premium",HBO Xtreme
 #EXTINF:-1 tvg-id="CINE | A&E HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | A&E HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414454.m3u8
-
 #EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | CINEMAX HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414457.m3u8
-
 #EXTINF:-1 tvg-id="CINE | STAR CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | STAR CHANNEL HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414459.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8
 #EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414474.m3u8
-
 #EXTINF:-1 tvg-id="CINE | TNT SERIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT SERIES HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414477.m3u8
-
 #EXTINF:-1 tvg-id="CINE | CINECANAL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | CINECANAL HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414480.m3u8
-
 #EXTINF:-1 tvg-id="CINE | AXN HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | AXN HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414483.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="CINE | WARNER CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | WARNER CHANNEL HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414485.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="Sony Channel Andes" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-channel-ar.png" group-title="Películas",Sony Channel Andes
-http://177.234.249.178:8888/SONY-TV/index.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-id="CINE | SONY MOVIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | SONY MOVIES HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414489.m3u8
-
-#EXTINF:-1 tvg-id="CINE | TCM SD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TCM SD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414493.m3u8
-
 #EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", CINE | UNIVERSAL TV HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414495.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8
 #EXTINF:-1 tvg-id="CINE | FX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | FX HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414498.m3u8
-
 #EXTINF:-1 tvg-id="CINE | SPACE HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | SPACE HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414501.m3u8
-
+http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8
 #EXTINF:-1 tvg-id="CINE | GOLDEN HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | GOLDEN HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414506.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/oZF112m.png" group-title="Cine y Series", C | Cinepolis Channel
+https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
 
-#EXTINF:-1 tvg-id="CINE | GOLDEN EDGE HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | GOLDEN EDGE HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414510.m3u8
+# Infantil 
 
-#EXTINF:-1 tvg-id="NV | Las Estrellas" tvg-logo="https://i.imgur.com/5Wvr8qa.png" group-title="Novelas", NV | Las Estrellas
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GCnhU5MsR8ZQixBlgefv_iM/m3u8
-
-#EXTINF:-1 tvg-id="NV | Pasiones" tvg-logo="https://i.imgur.com/9k8XMs1.png" group-title="Novelas", NV | Pasiones
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBdIkoCkJLxR4XPVB7lp1QU/m3u8
-
-#EXTINF:-1 tvg-id="NV | TL Novelas" tvg-logo="https://i.imgur.com/rrcNVKN.png" group-title="Novelas", NV | TL Novelas
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGNLZyq1ZpJ4pu865Smmv-w/m3u8
-
-#EXTINF:-1 tvg-id="NV | TNT Novelas" tvg-logo="https://i.imgur.com/9CeJPVr.png" group-title="Novelas", NV | TNT Novelas
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBSJt1O_UH8t1bDFfIFthvs/m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Energeek_logo.png/200px-Energeek_logo.png" group-title="Chile",EnerGeek
+https://cdn.energeek.cl/hls/energeekretro.m3u8
 
 
 
