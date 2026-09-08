@@ -77,19 +77,12 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327917.m3u8
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327918.m3u8
 #EXTINF:-1 tvg-id="AR | TNT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="Deportes Argentina", AR | TNT SPORTS
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327919.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports HD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="Deportes Colombia", CO | Win Sports HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437742.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports+ Plus HD" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="Deportes Colombia", CO | Win Sports+ Plus HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437740.m3u8
 #EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", DEPORTES | CLARO SPORTS
 http://186.33.61.182:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="DEPORTES | GOLF CHANNEL" tvg-logo="https://i.imgur.com/vbyxlvR.png" group-title="Deportes Internacional", DEPORTES | GOLF CHANNEL
-http://186.33.61.182:8000/play/a031/index.m3u8
 
 # Musica
-
-#EXTINF:-1 tvg-id="AR | FM AMADEUS" tvg-logo="https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD" group-title="Argentina", AR | FM AMADEUS
-https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD
 
 # Movies
 
