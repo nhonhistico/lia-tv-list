@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="etc.cl" tvg-logo="http://redworld.pro:8880/images/53cce5c404153affac857ada5ce7bc12.png" group-title="Chile", CL | ETC TV HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273684.m3u8
+# Chile
+#EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/la-red.png" group-title="Nacionales",La Red
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+#EXTINF:-1 tvg-id="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="Chile", CL | UCV HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273733.m3u8
+#EXTINF:-1 tvg-id="0105" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/mega.png" group-title="Nacionales",Mega
+https://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" group-title="Nacionales" x-resolver="tvn" x-resolver-refresh="on_play",TVN
+http://45.162.193.35/TVN/index.m3u8
+#EXTINF:-1 tvg-id="0106" tvg-name="CHV" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/chv.png" group-title="Nacionales",CHV
+https://redirector.dps.live/hls/chv/playlist.m3u8
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" group-title="Nacionales",Canal 13
 
 #EXTINF:-1 tvg-id="zonalatina.cl" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="Chile", CL | ZONA LATINA HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273734.m3u8
-
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="Chile", CL | VIA X HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/298545.m3u8
-
 #EXTINF:-1 tvg-id="tvn24.cl" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="Chile", CL | 24 HORAS HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/272253.m3u8
 
-#EXTINF:-1 tvg-id="tvnchile.cl" tvg-logo="http://redworld.pro:8880/images/69e49ff199bfc129952b6602b5ed7aba.png" group-title="Chile", CL | TVN HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/272251.m3u8
-
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-logo="http://redworld.pro:8880/images/06074edd7f572f827c08c4ef64c49049.png" group-title="Chile", CL | CHILEVISION HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/58287.m3u8
-
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png" group-title="Chile", CL | MEGA HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/28244.m3u8
-
-#EXTINF:-1 tvg-id="canal13.cl" tvg-logo="http://redworld.pro:8880/images/a67edae422309f893a73707b38e9ca09.png" group-title="Chile", CL | CANAL 13 HD
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="biobio.cl" tvg-logo="http://redworld.pro:8880/images/bcfd743e350fccf33546292fffc48b26.png" group-title="Chile", CL | LA RED HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/272254.m3u8
-
-#EXTINF:-1 tvg-id="tvplus.cl" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="Chile", CL | TV+ HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273685.m3u8
-
-#EXTINF:-1 tvg-id="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="Chile", CL | UCV HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273733.m3u8
-
+# Argentina
 #EXTINF:-1 tvg-id="ARG | A24 HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" group-title="Argentina", ARG | A24 HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5760.m3u
 
@@ -60,6 +48,9 @@ http://tvdirect.pro:8080/live/rafatv24/rafa2024/5733.m3u
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5769.m3u
 
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
+
+# Noticias
+
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TVN_logo.svg/200px-TVN_logo.svg.png" group-title="Chile",TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 
@@ -128,6 +119,9 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414483.m3u8
 
 #EXTINF:-1 tvg-id="CINE | WARNER CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | WARNER CHANNEL HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414485.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-name="Sony Channel Andes" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-channel-ar.png" group-title="Películas",Sony Channel Andes
+http://177.234.249.178:8888/SONY-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE | SONY MOVIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | SONY MOVIES HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414489.m3u8
