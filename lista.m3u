@@ -178,6 +178,8 @@ http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 https://cdn.energeek.cl/hls/energeekretro.m3u8
 #EXTINF:-1 tvg-id="535" tvg-logo="https://i.imgur.com/G4tyHw8.png" group-title="Kids", K | FMH Kids
 http://190.95.11.223:8000/play/015/index.m3u8
+#EXTINF:-1 tvg-id="HBO-Family" tvg-name="HBO Family" tvg-logo="http://175.178.182.213/tb/HBO+Family.png" group-title="Premium",HBO Family HD
+http://190.95.11.223:8000/play/018/index.m3u8
 
 # VARIOS
 #EXTINF:-1 tvg-id="5" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="Cultura", C | History Channel
