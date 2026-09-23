@@ -154,7 +154,7 @@ http://stream.mcquack.net/218/index.m3u8
 http://stream.mcquack.net/330/index.m3u8
 
 # VARIOS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA", A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="LATINA", A&E
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7032
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Universal+ LATAM", U+ | REALITY
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7463
@@ -165,7 +165,7 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318617.m3u8
 #EXTINF:-1 tvg-id="History2.pe" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura", History 2 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318618.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura", C | Animal Planet
-http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7257
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="Cultura", TLC
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7254
 #EXTINF:-1 group-title="CULTURA  " tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg",HOLA! TV
@@ -210,7 +210,7 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7227
 #EXTINF:-1 tvg-id="CINE | STAR CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | STAR CHANNEL
 http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8
 #EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="LATINA",UNIVERSAL
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7243
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7164
 #EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7235
 #EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT HD 2
@@ -225,6 +225,7 @@ http://186.33.26.18:8000/play/a0qk/index.m3u8
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414486
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title=" CINE PREMIUM",CINE | SONY 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414488#EXTINF:-1 tvg-id="CINE | SONY MOVIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | SONY MOVIES HD
+#EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU",CINE | SONY M0VIES
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7240
 #EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", CINE | UNIVERSAL TV HD
 http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8
