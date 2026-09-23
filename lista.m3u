@@ -1,6 +1,7 @@
 #EXTM3U
 
 # Infantil 
+
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISNEYJUNIOR.png&auto=format&auto=compress&fit=max" group-title="Kids", Disney JR
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=4152470739&_cdn_token=f98c2424a5720e11c8caa053de727fbd4dc3b0f8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="Kids", Discovery Kids
@@ -23,9 +24,11 @@ https://cdn.energeek.cl/hls/energeekretro.m3u8
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1200px-HBO_Family.svg.png" group-title="LATINA",HBO FAMILY
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7433
-#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" group-title="Kids" DreamWorks
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" group-title="Kids", DreamWorks
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDreamworks_stream_li&_cdn_session=6807680678&_cdn_token=b494df98081d4ba1816e21f3e540314528ea99e3
+
 # Argentina
+
 #EXTINF:-1 tvg-id="ARG | A24 HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" group-title="Argentina", ARG | A24 HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490446
 #EXTINF:-1 tvg-id="ARG | AMERICA TV HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png" group-title="Argentina", ARG | AMERICA TV HD
@@ -47,6 +50,7 @@ http://tvdirect.pro:8080/live/rafatv24/rafa2024/5769.m3u
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
 
 # Chile
+
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" group-title="Chile", CL | TV+ HD
 http://181.78.88.113:9800/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/la-red.png" group-title="Nacionales", LA RED
@@ -70,16 +74,19 @@ http://181.78.88.113:9800/play/a09o/index.m3u8
 
 
 # Noticias
-#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/N3oiddg.png" group-title="Noticias", GER | DW Spanish
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINA", DW
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
 #EXTINF:-1 tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title=""Noticias", Ru | RT 
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" group-title="Noticias", Fr | 24
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="USA",CNN 
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/zgFOh52.png" group-title="Internacional", INT | TVE Internacional
 
 # Deportes
+
 #EXTINF:-1 tvg-id="lch2775" tvg-logo="https://i.imgur.com/TbpKMDl.png" group-title="Deportes Argentina", AR | ESPN HD
 http://181.224.255.210:8001/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="lch3952" tvg-logo="https://i.imgur.com/ZJE4gd6.png" group-title="Deportes Peru", PE | ESPN 2 HD
