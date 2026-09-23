@@ -48,6 +48,8 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7630
 #EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" group-title="Argentina", ARG | TN HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5769.m3u
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
+logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",LN +
+https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 
 # Chile
 
