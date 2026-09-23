@@ -22,7 +22,7 @@ https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-medi
 https://cdn.energeek.cl/hls/energeekretro.m3u8
 #EXTINF:-1 tvg-id="535" tvg-logo="https://i.imgur.com/G4tyHw8.png" group-title="Kids", K | FMH Kids
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1200px-HBO_Family.svg.png" group-title="LATINA",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINA",HBO FAMILY
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7433
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" group-title="Kids", DreamWorks
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDreamworks_stream_li&_cdn_session=6807680678&_cdn_token=b494df98081d4ba1816e21f3e540314528ea99e3
@@ -168,6 +168,8 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318618.m3u8
 http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="Cultura", TLC
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7254
+#EXTINF:-1 group-title="CULTURA  " tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg",HOLA! TV
+http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/126560.m3u
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="Cultura", Discovery Channel
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7092
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="Cultura", Discovery ID
@@ -189,13 +191,15 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m
 
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTCM.png&auto=format&auto=compress&fit=max" group-title="Cine y Series" TCM
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTCM_stream_ta&_cdn_session=4174263923&_cdn_token=dc46d57ab3152533911b46e9c4d9a597e6f6a99f
-#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&auto=format&auto=compress&fit=max" group-title="Cine y Series", CINE | Clover
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&auto=format&auto=compress&fit=max" group-title="Cine y Series", Clover
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Clover_Channel/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClover_Channel_stream_3a&_cdn_session=7215205347&_cdn_token=edeaa9022ae4e6fb5ceae9e6725bdc74079917e5
-#EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | CINEMAX HD
+#EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", WARNER 
+http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/1258.m3u
+#EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINEMAX HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7220
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA",HBO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA", HBO 
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7431
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA",HBO 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA", HBO 2 
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7325
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="LATINA",HBO XTREME MEX HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7437
