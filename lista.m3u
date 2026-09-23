@@ -16,7 +16,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ARG | NET TV HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NETTV/EXPORTACION_WEB/SS/NETTV_t-290x163.png" group-title="Argentina", ARG | NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ARG | TELEFE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" group-title="Argentina", ARG | TELEFE HD
-http://tvdirect.pro:8080/live/rafatv24/rafa2024/5733.m3u
+http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" group-title="Argentina", ARG | TN HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5769.m3u
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
@@ -44,14 +44,19 @@ http://181.78.88.113:9800/play/a067/index.m3u8
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
 
-
 # Noticias
-#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/N3oiddg.png" group-title="Cultura", C | DW Spanish
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/N3oiddg.png" group-title="Noticias", GER | DW Spanish
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title=""Noticias", Ru | RT 
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" group-title="Noticias", Fr | 24
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/zgFOh52.png" group-title="Internacional", INT | TVE Internacional
 
 # Deportes
-#EXTINF:-1 tvg-id="lch2775" tvg-logo="https://i.imgur.com/TbpKMDl.png" group-title="Deportes Peru", PE | ESPN HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533395.m3u8
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="https://i.imgur.com/TbpKMDl.png" group-title="Deportes Argentina", AR | ESPN HD
+http://181.224.255.210:8001/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="lch3952" tvg-logo="https://i.imgur.com/ZJE4gd6.png" group-title="Deportes Peru", PE | ESPN 2 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533397.m3u8
 #EXTINF:-1 tvg-id="lch2776" tvg-logo="https://i.imgur.com/X9QuOaI.png" group-title="Deportes Peru", PE | ESPN 3 HD
@@ -60,37 +65,30 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533398.m3u8
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533399.m3u8
 #EXTINF:-1 tvg-id="lch2339" tvg-logo="https://i.imgur.com/FQ21pgZ.png" group-title="Deportes Peru", PE | ESPN 5 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533400.m3u8
-#EXTINF:-1 tvg-id="lch2341" tvg-logo="https://i.imgur.com/PcKR2NE.png" group-title="Deportes Peru", PE | ESPN 6 HD
-http://190.95.11.223:8000/play/211/index.m3u8
-#EXTINF:-1 tvg-id="lch2340" tvg-logo="https://i.imgur.com/UIXhfUK.png" group-title="Deportes Peru", PE | ESPN 7 HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533402.m3u8
+#EXTINF:-1 tvg-id="lch2341" tvg-logo="https://i.imgur.com/PcKR2NE.png" group-title="Deportes Peru", AR | ESPN 6 HD
+http://181.224.255.210:8001/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="lch2340" tvg-logo="https://i.imgur.com/UIXhfUK.png" group-title="Deportes Peru", AR | ESPN 7 HD
+#EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+http://181.224.255.210:8001/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533403.m3u8
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", AR | DS SPORT HD
+http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-logo="https://i.imgur.com/iiecqdd.png" group-title="Deportes Peru", PE | M DEPORTES HD
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", PE | DS SPORT HD
-http://cablemaxsigloxxi.com:8000/play/a09o/index.m3u8
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533409.m3u8
+http://redworld:8880/live/mauri9283932/QUv5CbFUhjjy/533409.m3u8
 #EXTINF:-1 tvg-id="CL | TNT SPORTS" tvg-logo="https://i.imgur.com/XDRrrHk.png" group-title="Deportes Chile", CL | TNT SPORTS CHILE
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430830.m3u8
-#EXTINF:-1 tvg-id="DEPORTES | TNT SPORTS" tvg-logo="noimage.png" group-title="Cine y Series", DEPORTES | TNT HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414474.m3u8
 #EXTINF:-1 tvg-id="CL | TNT SPORTS PREMIUM CHILE" tvg-logo="https://i.imgur.com/5DQoJ0r.png" group-title="Deportes Chile", CL | TNT SPORTS PREMIUM CHILE
-http://190.95.11.223:8000/play/233/index.m3u8
-#EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327917.m3u8
-#EXTINF:-1 tvg-id="AR |ESPN PREMIUM 2" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM 2
-http://190.95.11.223:8000/play/209/index.m3u8
+http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:-1 tvg-id="AR | TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes Argentina", AR | TYC SPORTS
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327918.m3u8
-#EXTINF:-1 tvg-id="AR | TNT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="Deportes Argentina", AR | TNT SPORTS
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/327919.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports+ Plus HD" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="Deportes Colombia", CO | Win Sports+ Plus HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437740.m3u8
-#EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", DEPORTES | CLARO SPORTS
+#EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", AR | CLARO SPORTS 
 http://186.33.61.182:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/sky-sports-premier-league.png" group-title="Deportes" x-resolver="highfly" x-resolver-id="now-sky-sports-premier-league" x-resolver-manifest="https://sports.highfly.dev/eyJvbmx5TGl2ZSI6dHJ1ZX0/manifest.json" x-resolver-refresh="on_play",Sky Sports Premier League
-https://leaf.highfly.dev/m3u/now-sky-sports-premier-league/live.m3u8
-
+#EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", MX | CLARO SPORTS 
+http://190.61.101.11:7050/play/a04v/index.m3u8
 
 # Musica
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/hZ6IzBA.png" group-title="Musical", MU | Telehit
@@ -119,9 +117,12 @@ http://stream.mcquack.net/218/index.m3u8
 http://stream.mcquack.net/330/index.m3u8
 
 # Movies
-
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTCM.png&auto=format&auto=compress&fit=max" group-title="🎬🎥 Cine en tus Manos 🎟️📱",Peliculas Clasicas de Turner 🇺🇸 (1280x720) TCM
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTCM_stream_ta&_cdn_session=4174263923&_cdn_token=dc46d57ab3152533911b46e9c4d9a597e6f6a99f
 #EXTINF:-1 tvg-id="CINE | A&E HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | A&E HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414454.m3u8
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&auto=format&auto=compress&fit=max" group-title="Cine y Series", CINE | Clover
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Clover_Channel/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClover_Channel_stream_3a&_cdn_session=7215205347&_cdn_token=edeaa9022ae4e6fb5ceae9e6725bdc74079917e5
 #EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | CINEMAX HD
 http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="CINE | STAR CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | STAR CHANNEL HD
@@ -166,28 +167,36 @@ http://cablemaxsigloxxi.com:8000/play/a09x/index.m3u8
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
 
 # Infantil 
-#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="Kids", K | Discovery Kids
-http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8
-#EXTINF:-1 tvg-id="529" tvg-logo="http://s0lc.net:8080/images/inf_cartoon_network.png" group-title="Kids", K | Cartoon Network
-http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-name="Comedy Central en Español" tvg-country="US" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Películas",Comedy Central en Español
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Películas",Disney Channel Latin America
+#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISNEYJUNIOR.png&auto=format&auto=compress&fit=max" group-title="Kids", Disney JR
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=4152470739&_cdn_token=f98c2424a5720e11c8caa053de727fbd4dc3b0f8
+#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="Kids", Discovery Kids
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=4152469099&_cdn_token=590562f92267a4061419f7a0e0ba61aaa33e71df
+#EXTINF:-1 tvg-id="529" tvg-logo="http://s0lc.net:8080/images/inf_cartoon_network.png" group-title="Kids", Cartoon Network
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=4152516235&_cdn_token=ee8d6c676d10a0a99f2f042f0187fad75f3eede6
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Kids", Disney Channel
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Energeek_logo.png/200px-Energeek_logo.png" group-title="Chile",EnerGeek
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wUWyGv46U00GhFatzYf9puzh7UOwbyn3c5Wz1cv6-lF3mJyLTW0eFZ1gfeZnRcon1SudXPZiBc4=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",Nickelodeon Junior
+http://186.33.26.18:8000/play/a0qw/index.m3u8
+#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLIMPLIM.png&auto=format&auto=compress&fit=max" group-title="Kids", Plim Plim
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=4152473083&_cdn_token=ecc34aacf4e54bbf43684c5c0330af98b014fdd6
+#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCARTOONITO.png&auto=format&auto=compress&fit=max" group-title="Kids", Cartoonito
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=4152474835&_cdn_token=8f3756efa283cb8e44375e794af34246be3a853f
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&auto=format&auto=compress&fit=max" group-title="Kids", Fun Box
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Energeek_logo.png/200px-Energeek_logo.png" group-title="Chile", EnerGeek
 https://cdn.energeek.cl/hls/energeekretro.m3u8
 #EXTINF:-1 tvg-id="535" tvg-logo="https://i.imgur.com/G4tyHw8.png" group-title="Kids", K | FMH Kids
-http://190.95.11.223:8000/play/015/index.m3u8
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 #EXTINF:-1 tvg-id="HBO-Family" tvg-name="HBO Family" tvg-logo="http://175.178.182.213/tb/HBO+Family.png" group-title="Premium",HBO Family HD
-http://190.95.11.223:8000/play/018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" group-title="Kids" DreamWorks
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDreamworks_stream_li&_cdn_session=6807680678&_cdn_token=b494df98081d4ba1816e21f3e540314528ea99e3
 
 # VARIOS
-#EXTINF:-1 tvg-id="5" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="Cultura", C | History Channel
-http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&auto=format&auto=compress&fit=max" group-title="Cultura", Discovery
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4153315563&_cdn_token=205b23c0a88c01828a760549ea3c43bdb093b134
 #EXTINF:-1 tvg-id="History.pe" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="Cultura", History Channel HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318617.m3u8
-#EXTINF:-1 tvg-id="742dtv.co" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura", C | History 2
-http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-id="History2.pe" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura", History 2 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318618.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura", C | Animal Planet
@@ -198,8 +207,8 @@ http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="Cultura", C | Discovery ID
 http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8
-#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="Cultura", C | Discovery Theater
-http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="Cultura", Discovery Theater
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=4153320459&_cdn_token=cce7289b2ba420d27d22294e21fe2e84c9dc099c
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="Cultura", C | Discovery Turbo
 http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/P3IilIQ.png" group-title="Cultura", E | Food Network
@@ -207,12 +216,15 @@ http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", E | Discovery H&H
 http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Cultura", E! Entretainment HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318627.m3u8
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Películas",Disney Channel Latin America
-http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/zgFOh52.png" group-title="Internacional", INT | TVE Internacional
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&auto=format&auto=compress&fit=max" group-title=", E!
 
+#EXTINF:-1 group-title="Argentina", El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TV Publica
+https://broker.cdn.rcs.net.ar/mnp/79sgpei8yp2kn0ledlptzl8nz5tjc3lz_hls/playlist.m3u8
 
 
 
