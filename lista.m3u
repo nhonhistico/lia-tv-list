@@ -102,21 +102,26 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533400.m3u8
 #EXTINF:-1 tvg-id="lch2341" tvg-logo="https://i.imgur.com/PcKR2NE.png" group-title="Deportes Peru", AR | ESPN 6 HD
 http://181.224.255.210:8001/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="lch2340" tvg-logo="https://i.imgur.com/UIXhfUK.png" group-title="Deportes Peru", AR | ESPN 7 HD
+http://195.178.110.110/espn7/index.m3u8
 #EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
 http://181.224.255.210:8001/play/a0pt/index.m3u8
-#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title=" CL",F0X SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX DEPORTES 
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7787
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title=" CL",F0X SPORTS 2
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120545
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title=" CLE",F0X SPORTS 2
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120546
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title=" CLE",F0X SPORTS 3
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120547
-#EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX HD
+#EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX 
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533403.m3u8
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", AR | DS SPORT HD
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", AR | DS SPORT
 http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="-",DSPORTS +
+https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="D GAMES 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title=" CL",DS SPORT 2
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120550
-#EXTINF:-1 tvg-id="lch3298" tvg-logo="https://i.imgur.com/iiecqdd.png" group-title="Deportes Peru", PE | M DEPORTES HD
+http://181.209.105.115:2525/play/dsports2/index.m3u8
+#EXTINF:-1 tvg-id="lch3298" tvg-logo="https://i.imgur.com/iiecqdd.png" group-title="Deportes Peru", PE | M DEPORTES 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/533409
 #EXTINF:-1 tvg-id="CL | TNT SPORTS" tvg-logo="https://i.imgur.com/XDRrrHk.png" group-title="Deportes Chile", CL | TNT SPORTS CHILE
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430830.m3u8
@@ -132,10 +137,13 @@ http://186.33.61.182:8000/play/a00t/index.m3u8
 http://190.61.101.11:7050/play/a04v/index.m3u8
 
 # Musica
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/hZ6IzBA.png" group-title="Musical", MU | Telehit
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/hZ6IzBA.png" group-title="Musical",  Telehit
 http://xstr.cyou/live/Martin49/Silvera49/e7d38ca7-90a7-4e5b-906b-a537cddda703.m3u8
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/9f8pSxu.png" group-title="Musical", MU | Telehit Musica
-http://xstr.cyou/live/Martin49/Silvera49/0d2b27ac-c373-4f39-89e9-7964825bf27e.m3u8
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/9f8pSxu.png" group-title="Musical",  Telehit Musica
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7149
+#EXTINF:-1 tvg-logo="" group-title="Musical", Retro
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7349
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/376576
 #EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/xite.svg" group-title="Música",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/xite.svg" tvg-country="NL" group-title="Música",XITE Nuevo Latino
@@ -157,7 +165,13 @@ http://stream.mcquack.net/330/index.m3u8
 
 # VARIOS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="LATINA", A&E
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7032
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414453
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINA",TNT SERIES 
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414477
+#EXTINF:-1 tvg-id="CINE | AXN HD" tvg-logo="noimage.png" group-title="Cine y Series", AXN 
+http://186.33.26.18:8000/play/a0qk/index.m3u8
+#EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", UNIVERSAL TV 
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414494
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" tvg-name="LIFETIME"  group-title="SERIES",LIFETIME
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7129
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Universal+ LATAM", U+ | REALITY
@@ -174,6 +188,16 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7257
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7254
 #EXTINF:-1 group-title="CULTURA  " tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg",HOLA! TV
 http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/126560.m3u
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/P3IilIQ.png" group-title="Cultura", Food Network
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7172
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Gourmet
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7125
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", Discovery H&H
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
+#EXTINF:-1 tvg-id="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Cultura", E! Entretainment HD
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Películas",Disney Channel
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&auto=format&auto=compress&fit=max" group-title=", E!
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="Cultura", Discovery Channel
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7092
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="Cultura", Discovery ID
@@ -181,24 +205,20 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7258
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="Cultura", Discovery Theater
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=4153320459&_cdn_token=cce7289b2ba420d27d22294e21fe2e84c9dc099c
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="Cultura", Discovery Turbo
-http://186.33.26.18:8000/play/a0qw/index.m3u8
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/P3IilIQ.png" group-title="Cultura", E | Food Network
-http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", Discovery H&H
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
-#EXTINF:-1 tvg-id="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Cultura", E! Entretainment HD
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Películas",Disney Channel Latin America
-#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&auto=format&auto=compress&fit=max" group-title=", E!
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/318611
 
 # Movies
 
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTCM.png&auto=format&auto=compress&fit=max" group-title="Cine y Series" TCM
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTCM_stream_ta&_cdn_session=4174263923&_cdn_token=dc46d57ab3152533911b46e9c4d9a597e6f6a99f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/2560px-Starz_Cinema_logo.svg.png" group-title="USA",STARZ CINEMA
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8518
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&auto=format&auto=compress&fit=max" group-title="Cine y Series", Clover
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Clover_Channel/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClover_Channel_stream_3a&_cdn_session=7215205347&_cdn_token=edeaa9022ae4e6fb5ceae9e6725bdc74079917e5
 #EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", WARNER 
 http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/1258.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA 
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7227
 #EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINEMAX HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA", HBO 
@@ -207,32 +227,38 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7431
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7325
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="LATINA",HBO XTREME MEX HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7437
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="LATINA",HBO POP
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414471
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title=" CINE PREMIUM", SPACE
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7226
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7227
 #EXTINF:-1 tvg-id="CINE | STAR CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | STAR CHANNEL
-http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8
-#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="LATINA",UNIVERSAL
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7164
-#EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT HD
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414464
+#EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", TNT
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7235
-#EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT HD 2
-http://190.95.11.223:8000/play/109/index.m3u8
+#EXTINF:-1 tvg-id="CINE | TNT HD" tvg-logo="noimage.png" group-title="Cine y Series", TNT 2
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414475
 #EXTINF:-1 tvg-id="CINE | TNT SERIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | TNT SERIES 
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/414477.m3u8
 #EXTINF:-1 tvg-id="CINE | CINECANAL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | CINECANAL 
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7090
-#EXTINF:-1 tvg-id="CINE | AXN HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | AXN HD
-http://186.33.26.18:8000/play/a0qk/index.m3u8
 #EXTINF:-1 tvg-id="CINE | WARNER CHANNEL HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | WARNER CHANNEL 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414486
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title=" CINE PREMIUM",CINE | SONY 
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414488#EXTINF:-1 tvg-id="CINE | SONY MOVIES HD" tvg-logo="noimage.png" group-title="Cine y Series", CINE | SONY MOVIES HD
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414488
 #EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU",CINE | SONY M0VIES
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7240
-#EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", CINE | UNIVERSAL TV HD
-http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="LATINA", UNIVERSAL
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7164
+#EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", UNIVERSAL 2
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7243
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Postermax"group-title="CINE PREMIUM",FMH FAMILY
+http://45.186.254.75:8000/play/a07l/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Postermax"group-title="CINE PREMIUM",FMH MOVIE 
+http://45.186.254.75:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Postermax"group-title="CINE PREMIUM",CINE FAMILIAR
+http://181.78.8.199:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Universal+ LATAM", U+ | CINEMA
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7465
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="Universal+ LATAM", U+ | COMEDY
@@ -251,6 +277,8 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7124
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8464
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" group-title="Cine y Series", AMC
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7236
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINA",FILM & ARTS
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7191
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/oZF112m.png" group-title="Cine y Series",  CINEPOLIS
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
 
