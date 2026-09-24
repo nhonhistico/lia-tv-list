@@ -94,7 +94,7 @@ http://181.224.255.210:8001/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="lch3952" tvg-logo="https://i.imgur.com/ZJE4gd6.png" group-title="Deportes Peru", PE | ESPN 2 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533397.m3u8
 #EXTINF:-1 tvg-id="lch2776" tvg-logo="https://i.imgur.com/X9QuOaI.png" group-title="Deportes Peru", PE | ESPN 3 HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/167965
+http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/533398
 #EXTINF:-1 tvg-id="lch2813" tvg-logo="https://i.imgur.com/ixB0osm.png" group-title="Deportes Peru", PE | ESPN 4 HD
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533399.m3u8
 #EXTINF:-1 tvg-id="lch2339" tvg-logo="https://i.imgur.com/FQ21pgZ.png" group-title="Deportes Peru", PE | ESPN 5 HD
@@ -158,6 +158,8 @@ http://stream.mcquack.net/330/index.m3u8
 # VARIOS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="LATINA", A&E
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7032
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" tvg-name="LIFETIME"  group-title="SERIES",LIFETIME
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7129
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Universal+ LATAM", U+ | REALITY
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7463
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&auto=format&auto=compress&fit=max" group-title="Cultura", Discovery
