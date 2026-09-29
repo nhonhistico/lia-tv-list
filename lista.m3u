@@ -9,7 +9,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="529" tvg-logo="http://s0lc.net:8080/images/inf_cartoon_network.png" group-title="Kids", Cartoon Network
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=4152516235&_cdn_token=ee8d6c676d10a0a99f2f042f0187fad75f3eede6
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Kids", Disney Channel
-http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+http://181.224.255.210:8001/play/a0oe/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wUWyGv46U00GhFatzYf9puzh7UOwbyn3c5Wz1cv6-lF3mJyLTW0eFZ1gfeZnRcon1SudXPZiBc4=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",Nickelodeon Junior
 http://186.33.26.18:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLIMPLIM.png&auto=format&auto=compress&fit=max" group-title="Kids", Plim Plim
@@ -20,10 +20,12 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png", EnerGeek âœª | CL
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV
+http://45.4.3.177:9999/play/a0ge
 #EXTINF:-1 tvg-id="535" tvg-logo="https://i.imgur.com/G4tyHw8.png" group-title="Kids", K | FMH Kids
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINA",HBO FAMILY
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7433
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="LATINA",HBO FAMILY
+http://190.108.83.69:8000/play/a03x
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" group-title="Kids", DreamWorks
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDreamworks_stream_li&_cdn_session=6807680678&_cdn_token=b494df98081d4ba1816e21f3e540314528ea99e3
 
@@ -48,8 +50,10 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7630
 #EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" group-title="Argentina", ARG | TN HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490437
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPBLICAHD/EXPORTACION_WEB/SS/TVPBLICAHD_t-290x163.png" group-title="Argentina", ARG | TV PUBLICA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png"group-title=""Argentina", ARG | LN +
+#EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true"group-title=""Argentina", ARG | LN +
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7334
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina 🇦🇷",TV Pública
+http://181.209.80.115:8000/play/tv_publica_hd
 
 # Chile
 
@@ -66,24 +70,20 @@ https://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_
 #EXTINF:-1 tvg-id="0106" tvg-name="CHV" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/chv.png" group-title="Nacionales", CHV
 https://redirector.dps.live/hls/chv/playlist.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" group-title="Nacionales", CANAL 13
-http://181.78.88.113:9800/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="zonalatina.cl" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="Chile", CL | ZONA LATINA HD
-
-#EXTINF:-1 tvg-id="viax.cl" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="Chile", CL | VIA X HD
-
+http://187.102.211.240:9001/play/a05u/index.m3u8?hls
 #EXTINF:-1 tvg-id="tvn24.cl" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="Chile", CL | 24 HORAS HD
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
 
 # Noticias
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINA", DW
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" group-title="LATINA", DW
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
-#EXTINF:-1 tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title=""Noticias", Ru | RT 
-https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title=""Noticias", Ru | RT Español 
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" group-title="Noticias", Fr | 24
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="USA",CNN 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="USA",CNN 
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/zgFOh52.png" group-title="Internacional", INT | TVE Internacional
 
@@ -105,22 +105,24 @@ http://181.224.255.210:8001/play/a0eq/index.m3u8
 http://195.178.110.110/espn7/index.m3u8
 #EXTINF:-1 tvg-id="AR |ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="Deportes Argentina", AR | ESPN PREMIUM
 http://181.224.255.210:8001/play/a0pt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX DEPORTES 
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7787
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX SPORTS
+http://138.59.227.20:8000/play/a085/index.m3u8?hls
 #EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title=" CL",F0X SPORTS 2
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120545
-#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title=" CLE",F0X SPORTS 2
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120546
+http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title=" CLE",F0X SPORTS 3
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/120547
+http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-id="lch7217" tvg-logo="https://i.imgur.com/q2hZUYS.png" group-title="Deportes Peru", PE | L1 MAX 
 http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/533403.m3u8
 #EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="Deportes Peru", AR | DS SPORT
 http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="-",DSPORTS +
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
-#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="D GAMES 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title=" CL",DS SPORT 2
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="",DSPORTS
+http://181.209.80.115:8000/play/dsports_hd
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="D GAMES 2 (CHI)" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title=" CL",DS SPORT 2
 http://181.209.105.115:2525/play/dsports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="",DS SPORT 2
+http://181.209.80.115:8000/play/dsports_2_hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJXXC9H.png" group-title="",DSPORTS +
+http://195.178.110.110/dsportsplus/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-logo="https://i.imgur.com/iiecqdd.png" group-title="Deportes Peru", PE | M DEPORTES 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/533409
 #EXTINF:-1 tvg-id="CL | TNT SPORTS" tvg-logo="https://i.imgur.com/XDRrrHk.png" group-title="Deportes Chile", CL | TNT SPORTS CHILE
@@ -135,6 +137,8 @@ http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/437740.m3u8
 http://186.33.61.182:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="DEPORTES | CLARO SPORTS" tvg-logo="https://i.imgur.com/VXk6n1S.png" group-title="Deportes Internacional", MX | CLARO SPORTS 
 http://190.61.101.11:7050/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+.us" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 # Musica
 #EXTINF:-1 tvg-id="156" tvg-name="Rewind" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png", Rewind
@@ -151,10 +155,11 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UC
 http://xstr.cyou/live/Martin49/Silvera49/e7d38ca7-90a7-4e5b-906b-a537cddda703.m3u8
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/9f8pSxu.png" group-title="Musical",  Telehit Musica
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7149
-#EXTINF:-1 tvg-logo="" group-title="Musical", Retro
+#EXTINF:-1 tvg-logo="", Exa TV
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7349
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="Musical", Retro
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/376576
 #EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/xite.svg" group-title="Música",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
@@ -180,40 +185,46 @@ http://stream.mcquack.net/218/index.m3u8
 http://stream.mcquack.net/330/index.m3u8
 
 # VARIOS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="LATINA", A&E
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414453
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINA",TNT SERIES 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" group-title="LATINA", A&E
+http://177.53.152.117:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="History.pe" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="Cultura", History Channel HD
+http://45.188.229.33:8000/play/a1aq/index.m3u8?hls
+#EXTINF:-1 tvg-id="History2.pe" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura", History 2 HD
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318618.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png" group-title="LATINA",TNT SERIES 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414477
-#EXTINF:-1 tvg-id="CINE | AXN HD" tvg-logo="noimage.png" group-title="Cine y Series", AXN 
+#EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", WARNER 
+http://181.79.86.130:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="CINE | AXN HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Series", AXN 
 http://186.33.26.18:8000/play/a0qk/index.m3u8
-#EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="http://127.0.0.1/" group-title="Cine y Series", UNIVERSAL TV 
+#EXTINF:-1 tvg-id="CINE | UNIVERSAL TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Cine y Series", UNIVERSAL TV 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414494
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" tvg-name="LIFETIME"  group-title="SERIES",LIFETIME
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7129
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Universal+ LATAM", U+ | REALITY
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7463
-#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&auto=format&auto=compress&fit=max" group-title="Cultura", Discovery
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4153315563&_cdn_token=205b23c0a88c01828a760549ea3c43bdb093b134
-#EXTINF:-1 tvg-id="History.pe" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="Cultura", History Channel HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318617.m3u8
-#EXTINF:-1 tvg-id="History2.pe" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura", History 2 HD
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/318618.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura", C | Animal Planet
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7257
+#EXTINF:-1 tvg-id="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Cultura", E! Entretainment HD
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" tvg-language="Spanish" group-title="General 🇦🇷",MTV
+http://201.240.104.137:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", Discovery H&H
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="Cultura", TLC
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7254
 #EXTINF:-1 group-title="CULTURA  " tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg",HOLA! TV
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/126560.m3u
+http://45.5.117.99:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/P3IilIQ.png" group-title="Cultura", Food Network
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7172
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Gourmet
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7125
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", Discovery H&H
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
-#EXTINF:-1 tvg-id="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Cultura", E! Entretainment HD
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="Películas",Disney Channel
-#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&auto=format&auto=compress&fit=max" group-title=", E!
+#EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&auto=format&auto=compress&fit=max" group-title="Cultura", Discovery
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4153315563&_cdn_token=205b23c0a88c01828a760549ea3c43bdb093b134
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura", C | Animal Planet
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7257
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇦🇷",National Geographic
+http://181.115.239.66:8000/play/a00t/index.m3u8
+
+
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="Cultura", Discovery Channel
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7092
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="Cultura", Discovery ID
@@ -231,10 +242,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_c
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8518
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&auto=format&auto=compress&fit=max" group-title="Cine y Series", Clover
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Clover_Channel/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClover_Channel_stream_3a&_cdn_session=7215205347&_cdn_token=edeaa9022ae4e6fb5ceae9e6725bdc74079917e5
-#EXTINF:-1 group-title="CINE PREMIUM Exclusivo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", WARNER 
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/1258.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA 
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7227
+
 #EXTINF:-1 tvg-id="CINE | CINEMAX HD" tvg-logo="noimage.png" group-title="Cine y Series", CINEMAX HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA", HBO 
