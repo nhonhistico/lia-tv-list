@@ -22,6 +22,8 @@ https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-medi
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV
 http://45.4.3.177:9999/play/a0ge
+#EXTINF:-1 tvg-id="Adult swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇦🇷",Adult Swim
+http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 #EXTINF:-1 tvg-id="535" tvg-logo="https://i.imgur.com/G4tyHw8.png" group-title="Kids",FMH Kids
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="LATINA",HBO FAMILY
@@ -90,6 +92,8 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/zgFOh52.png" group-title="Internacional",TVE Internacional
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemundo
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ² 🇮🇷
+http://167.249.23.102:8000/play/a0h0/index.m3u8
 
 # Deportes
 
