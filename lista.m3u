@@ -31,7 +31,7 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-medi
 
 # Argentina
 
-#EXTINF:-1 tvg-id="ARG | A24 HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" group-title="Argentina"A24 HD
+#EXTINF:-1 tvg-id="ARG | A24 HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" group-title="Argentina",A24 HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490446
 #EXTINF:-1 tvg-id="ARG | AMERICA TV HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png" group-title="Argentina",AMERICA TV HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490450
