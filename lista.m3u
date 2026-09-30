@@ -73,6 +73,8 @@ https://redirector.dps.live/hls/chv/playlist.m3u8
 http://187.102.211.240:9001/play/a05u/index.m3u8?hls
 #EXTINF:-1 tvg-id="tvn24.cl" tvg-logo="http://redworld.pro:8880/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="Chile",24 HORAS HD
 http://181.78.88.113:9800/play/a09o/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ² 🇨🇱
+http://45.236.151.86:3232/play/a170/index.m3u8
 
 
 # Noticias
