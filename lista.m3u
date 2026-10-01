@@ -18,7 +18,7 @@ http://181.224.255.210:8001/play/a0oe/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-junior.lat" tvg-name="Nick Jr" tvg-chno="5" group-title="Infantiles" tvg-logo="https://githubusercontent.com" audio-track="spa",Nick Jr
 http://186.33.26.18:8000/play/a0qw/index.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nickelodeon_2023_logo_6.png" audio-track="spa",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nickelodeon_2023_logo_6.png" audio-track="spa",Nickelodeon
 http://45.186.254.75:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="plim-plim.lat" tvg-name="Plim Plim" tvg-chno="67" group-title="Infantiles" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLIMPLIM.png&auto=format&auto=compress&fit=max" audio-track="spa",Plim Plim
