@@ -155,7 +155,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png",VClassicTV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" VClassicTV Tropical
+#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UC
@@ -222,7 +222,7 @@ http://201.240.104.137:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="Cultura", Discovery H&H
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="Cultura", TLC
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7254
+http://45.186.254.75:8000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ²
 http://181.78.8.199:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="CULTURA  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",HOLA! TV
@@ -232,7 +232,7 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7172
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Gourmet
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7125
 #EXTINF:-1 tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&auto=format&auto=compress&fit=max" group-title="Cultura", Discovery
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4153315563&_cdn_token=205b23c0a88c01828a760549ea3c43bdb093b134
+http://45.186.254.75:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura", C | Animal Planet
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7257
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇦🇷",National Geographic
@@ -248,7 +248,7 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/318611
 
 # Movies
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TCM/EXPORTACION_WEB/SS/TCM_t-290x163.png" group-title="Cine y Series" TCM
+#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TCM/EXPORTACION_WEB/SS/TCM_t-290x163.png" group-title="Cine y Series", TCM
 http://45.186.254.75:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" group-title="Cine y Series", AMC
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7236
