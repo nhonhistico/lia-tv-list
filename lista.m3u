@@ -72,9 +72,9 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="hispantv.ir" tvg-name="HispanTV" tvg-chno="56" group-title="Noticias" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" audio-track="spa",Hispan TV
 http://167.249.23.102:8000/play/a0h0/index.m3u8
 
-=========================================================
-ARGENTINA
-=========================================================
+# =========================================================
+# ARGENTINA
+# =========================================================
 #EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-chno="151" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" audio-track="spa",A24 HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490446
 
@@ -84,7 +84,7 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490450
 #EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" tvg-chno="153" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C5NHD/EXPORTACION_WEB/SS/C5NHD_t-290x163.png" audio-track="spa",C5N HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490448
 
-#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-chno="154" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/canal-26-ar.png.png" audio-track="spa",Canal 26
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-chno="154" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/canal-26-ar.png" audio-track="spa",Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="el-nueve.ar" tvg-name="El Nueve" tvg-chno="155" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elnueve-ar.png" audio-track="spa",El Nueve HD
@@ -140,9 +140,9 @@ http://181.78.88.113:9800/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="cnn-chile.cl" tvg-name="CNN Chile" tvg-chno="111" group-title="Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" audio-track="spa",CNN Chile
 http://45.236.151.86:3232/play/a170/index.m3u8
 
-=========================================================
-DEPORTES
-=========================================================
+# =========================================================
+# DEPORTES
+# =========================================================
 #EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN HD
 http://181.224.255.210:8001/play/a0sa/index.m3u8
 
@@ -227,13 +227,15 @@ http://013tv.com:8080/F24657/f44540b5/64711
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="Danz 2" tvg-chno="228" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" audio-track="spa",DAZN 2
 http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 
-#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="229" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" audio-track="spa",DAZN 2
+#EXTINF:-1 tvg-id="dazn-f1.es" tvg-name="DAZN F1" tvg-chno="229" group-title="Deportes" tvg-logo=https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" audio-track="spa",DAZN F1
 http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
+
+#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="230" group-title="Deportes" tvg-logo="" audio-track="spa", CDO
 http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/273686
 
-=========================================================
-CINE Y SERIES (MOVIES)
-=========================================================
+# =========================================================
+# CINE Y SERIES (MOVIES)
+# =========================================================
 #EXTINF:-1 tvg-id="tcm.lat" tvg-name="TCM" tvg-chno="301" group-title="Cine y Series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" audio-track="spa,eng",TCM
 http://45.186.254.75:8000/play/a03k/index.m3u8
 
@@ -356,9 +358,9 @@ https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="cinepolis.mx" tvg-name="Cinepolis" tvg-chno="341" group-title="Cine y Series" tvg-logo="wikimedia.org" audio-track="spa",Cinépolis TV
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
 
-=========================================================
-VARIADOS Y CULTURA
-=========================================================
+# =========================================================
+# VARIADOS Y CULTURA
+# =========================================================
 #EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" audio-track="spa,eng",A&E
 http://177.53.152.117:8000/play/a045/index.m3u8
 
@@ -416,9 +418,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-
 #EXTINF:-1 tvg-id="discovery-turbo.lat" tvg-name="Discovery Turbo" tvg-chno="419" group-title="Cultura" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" audio-track="spa",Discovery Turbo
 http://186.148.175.138:8000/play/a05l
 
-=========================================================
-MÚSICA
-=========================================================
+# =========================================================
+# MÚSICA
+# =========================================================
 #EXTINF:-1 tvg-id="rewind-tv.cl" tvg-name="Rewind TV" tvg-chno="451" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/rewind-v2.png" audio-track="spa",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
