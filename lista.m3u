@@ -54,13 +54,13 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-medi
 #EXTINF:-1 tvg-id="dw-espanol.de" tvg-name="DW Español" tvg-chno="50" group-title="Noticias" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",DW Español
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
 
-#EXTINF:-1 tvg-id="rt-espanol.ru" tvg-name="RT Español" tvg-chno="51" group-title="Noticias" tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" audio-track="spa",RT Español
+#EXTINF:-1 tvg-id="rt-espanol.ru" tvg-name="RT Español" tvg-chno="51" group-title="Noticias" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" audio-track="spa",RT Español
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="france24-espanol.fr" tvg-name="France 24" tvg-chno="52" group-title="Noticias" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" audio-track="spa",France 24
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
 
-#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="53" group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" audio-track="spa",CNN en Espanol
+#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="53" group-title="Noticias" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/CNNENESPAOL/EXPORTACION_WEB/SS/CNNENESPAOL_t-290x163.png" audio-track="spa",CNN en Espanol
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
 
 #EXTINF:-1 tvg-id="tve-internacional.es" tvg-name="TVE Internacional" tvg-chno="54" group-title="Noticias" tvg-logo="https://i.imgur.com/zgFOh52.png" audio-track="spa",TVE Internacional
@@ -118,7 +118,7 @@ http://181.78.88.113:9800/play/a09m/index.m3u8
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-chno="103" group-title="Chile" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" audio-track="spa",UCV TV
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273733.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/UCV/default/index.m3u8
 
 #EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-chno="104" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" audio-track="spa"x-resolver="tvn" x-resolver-refresh="on_play",TVN
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/272251
@@ -130,13 +130,14 @@ https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.m3u8
 https://redirector.dps.live/hls/chv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13" tvg-chno="107" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" audio-track="spa",Canal 13
-http://187.102.211.240:9001/play/a05u/index.m3u8?hls
+https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
 
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-chno="109" group-title="Chile" tvg-logo="https://i.imgur.com/PktzDCH.png" audio-track="spa",T13
 https://tv-mgmt.gtd.cl/bpk-tv/T13/default/index.m3u8
 
 #EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/24-horas.png" audio-track="spa",24 Horas
 http://181.78.88.113:9800/play/a09o/index.m3u8
+
 #EXTINF:-1 tvg-id="cnn-chile.cl" tvg-name="CNN Chile" tvg-chno="111" group-title="Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" audio-track="spa",CNN Chile
 http://45.236.151.86:3232/play/a170/index.m3u8
 
