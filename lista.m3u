@@ -295,7 +295,7 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414486
 http://181.224.200.5:2277/play/a01g
 
 #EXTINF:-1 tvg-id="axn.lat" tvg-name="AXN" tvg-chno="320" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" audio-track="spa,eng",AXN
-http://186.33.26.18:8000/play/a0qk/index.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/AXN/default/index.m3u8
 
 #EXTINF:-1 tvg-id="studio-universal-tv.lat" tvg-name="Studio Universal" tvg-chno="321" group-title="Cine y Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" audio-track="spa,eng",Studio Universal
 http://187.102.211.240:9001/play/a06o/index.m3u8
