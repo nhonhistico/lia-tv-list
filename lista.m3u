@@ -15,10 +15,10 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-m
 #EXTINF:-1 tvg-id="disney-channel.lat" tvg-name="Disney Channel" tvg-chno="4" group-title="Infantiles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" audio-track="spa",Disney Channel
 http://181.224.255.210:8001/play/a0oe/index.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeon-junior.lat" tvg-name="Nick Jr" tvg-chno="5" group-title="Infantiles" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nick-jr_m.png" audio-track="spa",Nick Jr
+#EXTINF:-1 tvg-id="nickelodeon-junior.lat" tvg-name="Nick Jr" tvg-chno="5" group-title="Infantiles" tvg-logo="https://i.imgur.com/KT4tdQs.png" audio-track="spa",Nick Jr
 http://186.33.26.18:8000/play/a0qw/index.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon_m.png" audio-track="spa",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png" audio-track="spa",Nickelodeon
 http://45.186.254.75:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="plim-plim.lat" tvg-name="Plim Plim" tvg-chno="67" group-title="Infantiles" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLIMPLIM.png&auto=format&auto=compress&fit=max" audio-track="spa",Plim Plim
@@ -42,7 +42,7 @@ http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 #EXTINF:-1 tvg-id="fmh-kids.lat" tvg-name="FMH Kids" tvg-chno="13" group-title="Infantiles" tvg-logo="https://i.imgur.com/G4tyHw8.png" audio-track="spa",FMH Kids
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 
-#EXTINF:-1 tvg-id="hbo-family.lat" tvg-name="HBO Family" tvg-chno="14" group-title="Infantiles" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-family_m.png" audio-track="spa,eng",HBO Family
+#EXTINF:-1 tvg-id="hbo-family.lat" tvg-name="HBO Family" tvg-chno="14" group-title="Infantiles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=trueg" audio-track="spa,eng",HBO Family
 http://190.108.83.69:8000/play/a03x
 
 #EXTINF:-1 tvg-id="dreamworks.lat" tvg-name="DreamWorks" tvg-chno="15" group-title="Infantiles" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" audio-track="spa,eng",DreamWorks
@@ -135,7 +135,7 @@ https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-chno="109" group-title="Chile" tvg-logo="https://i.imgur.com/PktzDCH.png" audio-track="spa",T13
 https://tv-mgmt.gtd.cl/bpk-tv/T13/default/index.m3u8
 
-#EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/24-horas.png" audio-track="spa",24 Horas
+#EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://i.imgur.com/CEE9zPe.png" audio-track="spa",24 Horas
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn-chile.cl" tvg-name="CNN Chile" tvg-chno="111" group-title="Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" audio-track="spa",CNN Chile
