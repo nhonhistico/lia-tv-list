@@ -149,7 +149,7 @@ http://45.236.151.86:3232/play/a170/index.m3u8
 # =========================================================
 
 #EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN AR 🇦🇷
-http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
+http://181.115.239.66:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN CL 🇨🇱
 https://tv-mgmt.gtd.cl/bpk-tv/ESPN/default/index.m3u8
 
