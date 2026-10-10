@@ -148,16 +148,20 @@ http://45.236.151.86:3232/play/a170/index.m3u8
 # DEPORTES
 # =========================================================
 
-#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN CL
-https://tv-mgmt.gtd.cl/bpk-tv/ESPN/default/index.m3u8
-#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN AR
+#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN AR 🇦🇷
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN CL 🇨🇱
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN/default/index.m3u8
 
-#EXTINF:-1 tvg-id="espn2.lat" tvg-name="ESPN 2" tvg-chno="202" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" audio-track="spa,eng",ESPN 2 HD
+#EXTINF:-1 tvg-id="espn2.lat" tvg-name="ESPN 2" tvg-chno="202" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" audio-track="spa,eng",ESPN 2 AR 🇦🇷
 http://45.188.229.33:8000/play/a1ab/index.m3u8?hls
+#EXTINF:-1 tvg-id="espn2.lat" tvg-name="ESPN 2" tvg-chno="202" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" audio-track="spa,eng",ESPN 2 CL 🇨🇱
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN2/default/index.m3u8
 
-#EXTINF:-1 tvg-id="espn3.lat" tvg-name="ESPN 3" tvg-chno="203" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/espn-3.png" audio-track="spa,eng",ESPN 3
-http://181.209.38.115:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="espn3.lat" tvg-name="ESPN 3" tvg-chno="203" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/espn-3.png" audio-track="spa,eng",ESPN 3 AR 🇦🇷
+http://181.115.239.66:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="espn3.lat" tvg-name="ESPN 3" tvg-chno="203" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/espn-3.png" audio-track="spa,eng",ESPN 3 CL 🇨🇱
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN3/default/index.m3u8	
 
 #EXTINF:-1 tvg-id="espn4.lat" tvg-name="ESPN 4" tvg-chno="204" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" audio-track="spa,eng",ESPN 4 HD
 http://45.188.229.33:8000/play/a1dg/index.m3u8?hls
