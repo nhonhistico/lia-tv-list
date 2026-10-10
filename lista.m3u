@@ -123,7 +123,7 @@ https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-chno="103" group-title="Chile" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" audio-track="spa",UCV TV
 https://tv-mgmt.gtd.cl/bpk-tv/UCV/default/index.m3u8
 
-#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-chno="104" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" audio-track="spa"x-resolver="tvn" x-resolver-refresh="on_play",TVN
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-chno="104" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" audio-track="spa" x-resolver="tvn" x-resolver-refresh="on_play",TVN
 https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-chno="105" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/mega.png" audio-track="spa",Mega
@@ -235,7 +235,7 @@ http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 #EXTINF:-1 tvg-id="dazn-f1.es" tvg-name="DAZN F1" tvg-chno="229" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" audio-track="spa",DAZN F1
 http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 
-#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="230" group-title="Deportes" tvg-logo="https://i.imgur.com/zH3jHIT.png" audio-track="spa", CDO
+#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="230" group-title="Deportes" tvg-logo="https://i.imgur.com/zH3jHIT.png" audio-track="spa",CDO
 http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/273686
 
 # =========================================================
@@ -278,7 +278,7 @@ http://177.53.152.117:8000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="usa-network.lat" tvg-name="USA Network" tvg-chno="312" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" audio-track="spa,eng",USA Network
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7227
 
-#EXTINF:-1 tvg-id="tnt.lat" tvg-name="TNT" tvg-chno="313" group-title="Cine y Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" audio-track="spa,eng",TNT 
+#EXTINF:-1 tvg-id="tnt.lat" tvg-name="TNT" tvg-chno="313" group-title="Cine y Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" audio-track="spa,eng",TNT
 http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="tnt.lat" tvg-name="TNT" tvg-chno="314" group-title="Cine y Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" audio-track="spa,eng",TNT 2
@@ -318,7 +318,7 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414477
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7240
 
 #EXTINF:-1 tvg-id="sony-movies.lat" tvg-name="Sony Movies" tvg-chno="326" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" audio-track="spa,eng",Sony Movies
-http://45.5.117.99:8000/play/a03s/index.m3u8 
+http://45.5.117.99:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="fmh-family.lat" tvg-name="FMH Family" tvg-chno="328" group-title="Cine y Series" tvg-logo="https://i.imgur.com/UfsQjYX.png" audio-track="spa",FMH Family
 http://45.186.254.75:8000/play/a07l/index.m3u8
@@ -346,149 +346,3 @@ http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden" tvg-chno="336" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" audio-track="spa",Golden HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8452
-
-#EXTINF:-1 tvg-id="golden-plus.mx" tvg-name="Golden Plus" tvg-chno="337" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" audio-track="spa",Golden Plus
-http://45.186.254.75:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-id="golden-premiere.mx" tvg-name="Golden Plus" tvg-chno="338" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" audio-track="spa",Golden Premiere
-http://iptvpremium.ink:55577/Doctorhusem84/Doctorhusem84/167512
-
-#EXTINF:-1 tvg-id="golden-edge.mx" tvg-name="Golden Edge" tvg-chno="339" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" audio-track="spa",Golden Edge
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3647.ts
-
-#EXTINF:-1 tvg-id="film-arts.lat" tvg-name="Film & Arts" tvg-chno="340" group-title="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" audio-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7191
-
-#EXTINF:-1 tvg-id="lcr-tv.cl" tvg-name="LCR TV" tvg-chno="340" group-title="Cine y Series" tvg-logo="https://cdn.m3u.cl/logo/1798_LCR_Television.png" audio-track="spa",LCR Televisión
-https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="cinepolis.mx" tvg-name="Cinepolis" tvg-chno="341" group-title="Cine y Series" tvg-logo="wikimedia.org" audio-track="spa",Cinépolis TV
-https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
-
-# =========================================================
-# VARIADOS Y CULTURA
-# =========================================================
-
-#EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" audio-track="spa,eng",A&E
-http://177.53.152.117:8000/play/a045/index.m3u8
-
-#EXTINF:-1 tvg-id="history-channel.lat" tvg-name="History" tvg-chno="402" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" audio-track="spa,eng",History Channel HD
-http://45.188.229.33:8000/play/a1aq/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="history2.lat" tvg-name="History 2" tvg-chno="403" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" audio-track="spa,eng",History 2 HD
-http://181.78.8.199:8000/play/a0ag/index.m3u8
-
-#EXTINF:-1 tvg-id="lifetime.lat" tvg-name="Lifetime" tvg-chno="404" group-title="Cultura" tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" audio-track="spa,eng",Lifetime
-http://45.167.2.101:8000/play/a0q4/index.m3u8
-
-#EXTINF:-1 tvg-id="universal-reality.lat" tvg-name="Universal Reality" tvg-chno="405" group-title="Cultura" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" audio-track="spa,eng",U+ Reality
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/150071.ts
-
-#EXTINF:-1 tvg-id="e-entertainment.lat" tvg-name="E! Entertainment" tvg-chno="406" group-title="Cultura" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" audio-track="spa,eng",E! Entertainment HD
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
-
-#EXTINF:-1 tvg-id="mtv.lat" tvg-name="MTV" tvg-chno="407" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" audio-track="spa,eng",MTV
-http://201.240.104.137:8000/play/a0ah/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-hh.lat" tvg-name="Discovery Home & Health" tvg-chno="408" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" audio-track="spa",Discovery H&H
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
-
-#EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" tvg-chno="409" group-title="Cultura" tvg-logo="https://docdog.top/logo/countries/latino/tlc.png" audio-track="spa,eng",TLC
-http://45.186.254.75:8000/play/a0gz/index.m3u8
-
-#EXTINF:-1 tvg-id="hgtv.lat" tvg-name="HGTV" tvg-chno="410" group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" audio-track="spa,eng",HGTV Latino
-http://181.78.8.199:8000/play/a0je/index.m3u8
-
-#EXTINF:-1 tvg-id="hola-tv.lat" tvg-name="Hola TV" tvg-chno="411" group-title="Cultura" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" audio-track="spa",¡Hola! TV
-http://187.102.211.240:9001/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-id="food-network.lat" tvg-name="Food Network" tvg-chno="412" group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png" audio-track="spa,eng",Food Network
-http://190.61.43.117:45000/play/a08e
-
-#EXTINF:-1 tvg-id="el-gourmet.lat" tvg-name="El Gourmet" tvg-chno="413" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" audio-track="spa",El Gourmet
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7125
-
-#EXTINF:-1 tvg-id="discovery-channel.lat" tvg-name="Discovery Channel" tvg-chno="414" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" audio-track="spa,eng",Discovery
-http://170.247.204.9:8000/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-id="animal-planet.lat" tvg-name="Animal Planet" tvg-chno="415" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true" audio-track="spa,eng",Animal Planet
-http://181.78.8.199:8000/play/a0by/index.m3u8
-
-#EXTINF:-1 tvg-id="national-geographic.lat" tvg-name="National Geographic" tvg-chno="416" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" audio-track="spa,eng",National Geographic
-http://181.115.239.66:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-investigation.lat" tvg-name="Discovery Investigation" tvg-chno="417" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" audio-track="spa",Discovery ID
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7258
-
-#EXTINF:-1 tvg-id="discovery-theater.lat" tvg-name="Discovery Theater" tvg-chno="418" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true" audio-track="spa,eng",Discovery Theater
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=4153320459&_cdn_token=cce7289b2ba420d27d22294e21fe2e84c9dc099c
-
-#EXTINF:-1 tvg-id="discovery-turbo.lat" tvg-name="Discovery Turbo" tvg-chno="419" group-title="Cultura" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" audio-track="spa",Discovery Turbo
-http://186.148.175.138:8000/play/a05l
-
-# =========================================================
-# MÚSICA
-# =========================================================
-
-#EXTINF:-1 tvg-id="rewind-tv.cl" tvg-name="Rewind TV" tvg-chno="451" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/rewind-v2.png" audio-track="spa",Rewind TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="retro.cl" tvg-name="Retro" tvg-chno="452" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",Retro
-https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
-
-#EXTINF:-1 tvg-id="retro-plus.cl" tvg-name="Retro Plus TV" tvg-chno="453" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" audio-track="spa",Retro Plus
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="vclassic.cl" tvg-name="VClassicTV" tvg-chno="454" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" audio-track="spa",VClassicTV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="vclassic-tropical.cl" tvg-name="VClassicTV Tropical" tvg-chno="455" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" audio-track="spa",VClassicTV Tropical
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="recuerdos-retro.cl" tvg-name="Recuerdos Retro" tvg-chno="456" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" audio-track="spa",Recuerdos Retro
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UC
-
-#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Telehit" tvg-chno="457" group-title="Música" tvg-logo="https://i.imgur.com/hZ6IzBA.png" audio-track="spa",Telehit
-http://xstr.cyou/live/Martin49/Silvera49/e7d38ca7-90a7-4e5b-906b-a537cddda703.m3u8
-
-#EXTINF:-1 tvg-id="telehit-musica.mx" tvg-name="Telehit Musica" tvg-chno="458" group-title="Música" tvg-logo="https://i.imgur.com/9f8pSxu.png" audio-track="spa",Telehit Música
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7149
-
-#EXTINF:-1 tvg-id="exa-tv.mx" tvg-name="Exa TV" tvg-chno="459" group-title="Música" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" audio-track="spa",Exa TV
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7349
-
-#EXTINF:-1 tvg-id="foxmix.cl" tvg-name="Portal FoxMix" tvg-chno="460" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" audio-track="spa",Portal FoxMix
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="xite-hits.nl" tvg-name="XITE Hits" tvg-chno="461" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-
-#EXTINF:-1 tvg-id="xite-nuevo-latino.nl" tvg-name="XITE Nuevo Latino" tvg-chno="462" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="spa",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-
-#EXTINF:-1 tvg-id="latinos-tv.cl" tvg-name="Latinos TV" tvg-chno="463" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png" audio-track="spa",Latinos TV
-https://lbgo.bozztv.com/ssh101/ssh101/latinos2026/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="xite-siempre-latino.nl" tvg-name="XITE Siempre Latino" tvg-chno="464" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="spa",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-
-#EXTINF:-1 tvg-id="xite-80s.nl" tvg-name="XITE 80s" tvg-chno="465" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE 80s Flashback
-https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
-
-
-#EXTINF:-1 tvg-id="el-radar.cl" tvg-name="El Radar" tvg-chno="466" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1743_El_Radar.png" audio-track="spa",El Radar
-https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="xite-90s.nl" tvg-name="XITE 90s" tvg-chno="467" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE 90s Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-
-#EXTINF:-1 tvg-id="xite-rock-metal.nl" tvg-name="XITE Rock x Metal" tvg-chno="468" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-
-#EXTINF:-1 tvg-id="xite-just-chill.nl" tvg-name="XITE Just Chill" tvg-chno="469" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-
-#EXTINF:-1 tvg-id="m1-tv.ua" tvg-name="M1" tvg-chno="470" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/m1.png" audio-track="ukr",M1 TV
-http://stream.mcquack.net/218/index.m3u8
-
-#EXTINF:-1 tvg-id="m2-tv.ua" tvg-name="M2" tvg-chno="471" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/m2.png" audio-track="ukr",M2 TV
-http://stream.mcquack.net/330/index.m3u8
