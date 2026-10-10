@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/nhonhistico/lia-tv-list/main/lista.m3u"
-
 # =========================================================
 # INFANTILES
 # =========================================================
@@ -30,7 +29,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 #EXTINF:-1 tvg-id="funbox.eu" tvg-name="FunBox" tvg-chno="9" group-title="Infantiles" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&auto=format&auto=compress&fit=max" audio-track="eng",FunBox
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
 
-#EXTINF:-1 tvg-id="energeek.cl" tvg-name="EnerGeek" tvg-chno="10" group-title="Infantiles" tvg-logo="" audio-track="spa",EnerGeek
+#EXTINF:-1 tvg-id="energeek.cl" tvg-name="EnerGeek" tvg-chno="10" group-title="Infantiles" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" audio-track="spa",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="etc-tv.cl" tvg-name="ETC TV" tvg-chno="11" group-title="Infantiles" tvg-logo="https://i.imgur.com/AzjSZkc.png" audio-track="spa",ETC TV
@@ -42,7 +41,7 @@ http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 #EXTINF:-1 tvg-id="fmh-kids.lat" tvg-name="FMH Kids" tvg-chno="13" group-title="Infantiles" tvg-logo="https://i.imgur.com/G4tyHw8.png" audio-track="spa",FMH Kids
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 
-#EXTINF:-1 tvg-id="hbo-family.lat" tvg-name="HBO Family" tvg-chno="14" group-title="Infantiles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=trueg" audio-track="spa,eng",HBO Family
+#EXTINF:-1 tvg-id="hbo-family.lat" tvg-name="HBO Family" tvg-chno="14" group-title="Infantiles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" audio-track="spa,eng",HBO Family
 http://190.108.83.69:8000/play/a03x
 
 #EXTINF:-1 tvg-id="dreamworks.lat" tvg-name="DreamWorks" tvg-chno="15" group-title="Infantiles" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&auto=format&auto=compress&fit=max" audio-track="spa,eng",DreamWorks
@@ -54,13 +53,13 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-medi
 #EXTINF:-1 tvg-id="dw-espanol.de" tvg-name="DW Español" tvg-chno="50" group-title="Noticias" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",DW Español
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
 
-#EXTINF:-1 tvg-id="rt-espanol.ru" tvg-name="RT Español" tvg-chno="51" group-title="Noticias" tvg-logo="" audio-track="spa",RT Español
+#EXTINF:-1 tvg-id="rt-espanol.ru" tvg-name="RT Español" tvg-chno="51" group-title="Noticias" tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" audio-track="spa",RT Español
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="france24-espanol.fr" tvg-name="France 24" tvg-chno="52" group-title="Noticias" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" audio-track="spa",France 24
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
 
-#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="53" group-title="Noticias" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/CNNENESPAOL/EXPORTACION_WEB/SS/CNNENESPAOL_t-290x163.png" audio-track="spa",CNN en Espanol
+#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="53" group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" audio-track="spa",CNN en Espanol
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
 
 #EXTINF:-1 tvg-id="tve-internacional.es" tvg-name="TVE Internacional" tvg-chno="54" group-title="Noticias" tvg-logo="https://i.imgur.com/zgFOh52.png" audio-track="spa",TVE Internacional
@@ -69,7 +68,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 #EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo" tvg-chno="55" group-title="Noticias" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" audio-track="spa",Telemundo Noticias
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
 
-#EXTINF:-1 tvg-id="hispantv.ir" tvg-name="HispanTV" tvg-chno="56" group-title="Noticias" tvg-logo="" audio-track="spa",Hispan TV
+#EXTINF:-1 tvg-id="hispantv.ir" tvg-name="HispanTV" tvg-chno="56" group-title="Noticias" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" audio-track="spa",Hispan TV
 http://167.249.23.102:8000/play/a0h0/index.m3u8
 
 # =========================================================
@@ -111,14 +110,14 @@ http://181.209.80.115:8000/play/tv_publica_hd
 # =========================================================
 # CHILE
 # =========================================================
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-name="TV+" tvg-chno="101" group-title="Chile" tvg-logo="" audio-track="spa",TV+ HD
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-name="TV+" tvg-chno="101" group-title="Chile" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" audio-track="spa",TV+ HD
 http://181.78.88.113:9800/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-id="la-red.cl" tvg-name="La Red" tvg-chno="102" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/la-red.png" audio-track="spa",La Red
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-chno="103" group-title="Chile" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" audio-track="spa",UCV TV
-https://tv-mgmt.gtd.cl/bpk-tv/UCV/default/index.m3u8
+http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273733.m3u8
 
 #EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-chno="104" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" audio-track="spa"x-resolver="tvn" x-resolver-refresh="on_play",TVN
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/272251
@@ -130,14 +129,13 @@ https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.m3u8
 https://redirector.dps.live/hls/chv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13" tvg-chno="107" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" audio-track="spa",Canal 13
-https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
+http://187.102.211.240:9001/play/a05u/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-chno="109" group-title="Chile" tvg-logo="https://i.imgur.com/PktzDCH.png" audio-track="spa",T13
 https://tv-mgmt.gtd.cl/bpk-tv/T13/default/index.m3u8
 
-#EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://i.imgur.com/CEE9zPe.png" audio-track="spa",24 Horas
+#EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/24-horas.png" audio-track="spa",24 Horas
 http://181.78.88.113:9800/play/a09o/index.m3u8
-
 #EXTINF:-1 tvg-id="cnn-chile.cl" tvg-name="CNN Chile" tvg-chno="111" group-title="Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" audio-track="spa",CNN Chile
 http://45.236.151.86:3232/play/a170/index.m3u8
 
@@ -231,7 +229,7 @@ http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 #EXTINF:-1 tvg-id="dazn-f1.es" tvg-name="DAZN F1" tvg-chno="229" group-title="Deportes" tvg-logo=https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" audio-track="spa",DAZN F1
 http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 
-#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="230" group-title="Deportes" tvg-logo="" audio-track="spa", CDO
+#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CDO" tvg-chno="230" group-title="Deportes" tvg-logo="https://i.imgur.com/zH3jHIT.png" audio-track="spa", CDO
 http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/273686
 
 # =========================================================
@@ -295,7 +293,7 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414486
 http://181.224.200.5:2277/play/a01g
 
 #EXTINF:-1 tvg-id="axn.lat" tvg-name="AXN" tvg-chno="320" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" audio-track="spa,eng",AXN
-https://tv-mgmt.gtd.cl/bpk-tv/AXN/default/index.m3u8
+http://186.33.26.18:8000/play/a0qk/index.m3u8
 
 #EXTINF:-1 tvg-id="studio-universal-tv.lat" tvg-name="Studio Universal" tvg-chno="321" group-title="Cine y Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" audio-track="spa,eng",Studio Universal
 http://187.102.211.240:9001/play/a06o/index.m3u8
@@ -336,7 +334,7 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7464
 #EXTINF:-1 tvg-id="universal-premiere.lat" tvg-name="Universal Premiere" tvg-chno="334" group-title="Cine y Series" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" audio-track="spa,eng",U+ Premiere
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7466
 
-#EXTINF:-1 tvg-id="fx.lat" tvg-name="FX" tvg-chno="335" group-title="Cine y Series" tvg-logo="" audio-track="spa,eng",FX
+#EXTINF:-1 tvg-id="fx.lat" tvg-name="FX" tvg-chno="335" group-title="Cine y Series" tvg-logo="https://i.imgur.com/ZScwrpi.png" audio-track="spa,eng",FX
 http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden" tvg-chno="336" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" audio-track="spa",Golden HD
@@ -351,9 +349,9 @@ http://iptvpremium.ink:55577/Doctorhusem84/Doctorhusem84/167512
 #EXTINF:-1 tvg-id="golden-edge.mx" tvg-name="Golden Edge" tvg-chno="339" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" audio-track="spa",Golden Edge
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3647.ts
 
-#EXTINF:-1 tvg-id="film-arts.lat" tvg-name="Film & Arts" tvg-chno="340" group-title="Cine y Series" tvg-logo="" audio-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7191
+#EXTINF:-1 tvg-id="film-arts.lat" tvg-name="Film & Arts" tvg-chno="340" group-title="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" audio-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7191
 
-#EXTINF:-1 tvg-id="lcr-tv.cl" tvg-name="LCR TV" tvg-chno="340" group-title="Cine y Series" tvg-logo="" audio-track="spa",LCR Televisión
+#EXTINF:-1 tvg-id="lcr-tv.cl" tvg-name="LCR TV" tvg-chno="340" group-title="Cine y Series" tvg-logo="https://cdn.m3u.cl/logo/1798_LCR_Television.png" audio-track="spa",LCR Televisión
 https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="cinepolis.mx" tvg-name="Cinepolis" tvg-chno="341" group-title="Cine y Series" tvg-logo="wikimedia.org" audio-track="spa",Cinépolis TV
@@ -362,7 +360,7 @@ https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg0
 # =========================================================
 # VARIADOS Y CULTURA
 # =========================================================
-#EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="" audio-track="spa,eng",A&E
+#EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" audio-track="spa,eng",A&E
 http://177.53.152.117:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-id="history-channel.lat" tvg-name="History" tvg-chno="402" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" audio-track="spa,eng",History Channel HD
@@ -428,16 +426,16 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="retro.cl" tvg-name="Retro" tvg-chno="452" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",Retro
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 
-#EXTINF:-1 tvg-id="retro-plus.cl" tvg-name="Retro Plus TV" tvg-chno="453" group-title="Música" tvg-logo="" audio-track="spa",Retro Plus
+#EXTINF:-1 tvg-id="retro-plus.cl" tvg-name="Retro Plus TV" tvg-chno="453" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" audio-track="spa",Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="vclassic.cl" tvg-name="VClassicTV" tvg-chno="454" group-title="Música" tvg-logo="" audio-track="spa",VClassicTV
+#EXTINF:-1 tvg-id="vclassic.cl" tvg-name="VClassicTV" tvg-chno="454" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" audio-track="spa",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="vclassic-tropical.cl" tvg-name="VClassicTV Tropical" tvg-chno="455" group-title="Música" tvg-logo="" audio-track="spa",VClassicTV Tropical
+#EXTINF:-1 tvg-id="vclassic-tropical.cl" tvg-name="VClassicTV Tropical" tvg-chno="455" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" audio-track="spa",VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="recuerdos-retro.cl" tvg-name="Recuerdos Retro" tvg-chno="456" group-title="Música" tvg-logo="" audio-track="spa",Recuerdos Retro
+#EXTINF:-1 tvg-id="recuerdos-retro.cl" tvg-name="Recuerdos Retro" tvg-chno="456" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" audio-track="spa",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="telehit.mx" tvg-name="Telehit" tvg-chno="457" group-title="Música" tvg-logo="https://i.imgur.com/hZ6IzBA.png" audio-track="spa",Telehit
@@ -446,10 +444,10 @@ http://xstr.cyou/live/Martin49/Silvera49/e7d38ca7-90a7-4e5b-906b-a537cddda703.m3
 #EXTINF:-1 tvg-id="telehit-musica.mx" tvg-name="Telehit Musica" tvg-chno="458" group-title="Música" tvg-logo="https://i.imgur.com/9f8pSxu.png" audio-track="spa",Telehit Música
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7149
 
-#EXTINF:-1 tvg-id="exa-tv.mx" tvg-name="Exa TV" tvg-chno="459" group-title="Música" tvg-logo="" audio-track="spa",Exa TV
+#EXTINF:-1 tvg-id="exa-tv.mx" tvg-name="Exa TV" tvg-chno="459" group-title="Música" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" audio-track="spa",Exa TV
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7349
 
-#EXTINF:-1 tvg-id="foxmix.cl" tvg-name="Portal FoxMix" tvg-chno="460" group-title="Música" tvg-logo="" audio-track="spa",Portal FoxMix
+#EXTINF:-1 tvg-id="foxmix.cl" tvg-name="Portal FoxMix" tvg-chno="460" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" audio-track="spa",Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="xite-hits.nl" tvg-name="XITE Hits" tvg-chno="461" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Hits
@@ -468,7 +466,7 @@ https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
 
-#EXTINF:-1 tvg-id="el-radar.cl" tvg-name="El Radar" tvg-chno="466" group-title="Música" tvg-logo="" audio-track="spa",El Radar
+#EXTINF:-1 tvg-id="el-radar.cl" tvg-name="El Radar" tvg-chno="466" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1743_El_Radar.png" audio-track="spa",El Radar
 https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="xite-90s.nl" tvg-name="XITE 90s" tvg-chno="467" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE 90s Throwback
