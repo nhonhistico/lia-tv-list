@@ -346,3 +346,17 @@ http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden" tvg-chno="336" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" audio-track="spa",Golden HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8452
+
+# -----------------------------------------  
+# 24/7
+# -----------------------------------------
+#EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7",Malcolm in the middle
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
+
+#EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory
+http://23.153.217.158:8080/998411519tv/pa9qnqi/281127
+
+#EXTINF:-1 tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" group-title="24/7",Yo soy Betty la fea
+#EXTVLCOPT:http-reconnect=true
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
+
