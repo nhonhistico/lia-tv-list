@@ -254,19 +254,19 @@ http://45.186.254.75:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="amc.lat" tvg-name="AMC" tvg-chno="302" group-title="Cine y Series" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" audio-track="spa,eng",AMC
 http://177.53.152.117:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="starz-cinema.us" tvg-name="Starz Cinema" tvg-chno="303" group-title="Cine y Series" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" audio-track="eng",Starz Cinema
+#EXTINF:-1 tvg-id="starz-cinema.us" tvg-name="Starz Cinema" tvg-chno="303" group-title="Cine y Series" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" audio-track="spa,eng",Starz Cinema
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8518
 
-#EXTINF:-1 tvg-id="star-channel.lat" tvg-name="Star Channel" tvg-chno="304" group-title="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" audio-track="spa",Star Channel
+#EXTINF:-1 tvg-id="star-channel.lat" tvg-name="Star Channel" tvg-chno="304" group-title="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" audio-track="spa,eng",Star Channel
 http://187.102.211.240:9001/play/a02j/index.m3u8
 
-#EXTINF:-1 tvg-id="clover-channel.lat" tvg-name="Clover" tvg-chno="305" group-title="Cine y Series" tvg-logo="https://i.imgur.com/zW9lWR1.png" audio-track="spa",Clover Channel
+#EXTINF:-1 tvg-id="clover-channel.lat" tvg-name="Clover" tvg-chno="305" group-title="Cine y Series" tvg-logo="https://i.imgur.com/zW9lWR1.png" audio-track="spa,eng",Clover Channel
 http://45.186.254.75:8000/play/a0ep/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.lat" tvg-name="Cinemax" tvg-chno="306" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" audio-track="spa,eng",Cinemax HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7220
 
-#EXTINF:-1 tvg-id="hbo.lat" tvg-name="HBO" tvg-chno="307" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" audio-track="spa",HBO
+#EXTINF:-1 tvg-id="hbo.lat" tvg-name="HBO" tvg-chno="307" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" audio-track="spa,eng",HBO
 http://179.1.146.22:8000/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.lat" tvg-name="HBO 2" tvg-chno="308" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" audio-track="spa,eng",HBO 2
@@ -278,7 +278,7 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7437
 #EXTINF:-1 tvg-id="hbo-pop.lat" tvg-name="HBO Pop" tvg-chno="310" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" audio-track="spa,eng",HBO Pop
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414471
 
-#EXTINF:-1 tvg-id="space.lat" tvg-name="Space" tvg-chno="311" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true" audio-track="spa",Space
+#EXTINF:-1 tvg-id="space.lat" tvg-name="Space" tvg-chno="311" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true" audio-track="spa,eng",Space
 http://177.53.152.117:8000/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-id="usa-network.lat" tvg-name="USA Network" tvg-chno="312" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" audio-track="spa,eng",USA Network
