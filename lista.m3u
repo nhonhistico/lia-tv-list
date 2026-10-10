@@ -1,6 +1,7 @@
 # =========================================================
 # INFANTILES
 # =========================================================
+
 #EXTINF:-1 tvg-id="disney-junior.lat" tvg-name="Disney Junior" tvg-chno="1" group-title="Infantiles" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISNEYJUNIOR.png&auto=format&auto=compress&fit=max" audio-track="spa",Disney Junior
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=4152470739&_cdn_token=f98c2424a5720e11c8caa053de727fbd4dc3b0f8
 
@@ -49,6 +50,7 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-medi
 # =========================================================
 # NOTICIAS
 # =========================================================
+
 #EXTINF:-1 tvg-id="dw-espanol.de" tvg-name="DW Español" tvg-chno="50" group-title="Noticias" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",DW Español
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
 
@@ -73,6 +75,7 @@ http://167.249.23.102:8000/play/a0h0/index.m3u8
 # =========================================================
 # ARGENTINA
 # =========================================================
+
 #EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-chno="151" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" audio-track="spa",A24 HD
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490446
 
@@ -109,38 +112,41 @@ http://181.209.80.115:8000/play/tv_publica_hd
 # =========================================================
 # CHILE
 # =========================================================
+
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="TV+" tvg-chno="101" group-title="Chile" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" audio-track="spa",TV+ HD
-http://181.78.88.113:9800/play/a09m/index.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/TVMAS/default/index.m3u8
 
 #EXTINF:-1 tvg-id="la-red.cl" tvg-name="La Red" tvg-chno="102" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/la-red.png" audio-track="spa",La Red
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-chno="103" group-title="Chile" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" audio-track="spa",UCV TV
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/273733.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/UCV/default/index.m3u8
 
 #EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-chno="104" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/tvn.png" audio-track="spa"x-resolver="tvn" x-resolver-refresh="on_play",TVN
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/272251
+https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-chno="105" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/mega.png" audio-track="spa",Mega
 https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.m3u8
 
 #EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CHV" tvg-chno="106" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/chv.png" audio-track="spa",CHV
-https://redirector.dps.live/hls/chv/playlist.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.m3u8
 
 #EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13" tvg-chno="107" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/canal13.png" audio-track="spa",Canal 13
-http://187.102.211.240:9001/play/a05u/index.m3u8?hls
+https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
 
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-chno="109" group-title="Chile" tvg-logo="https://i.imgur.com/PktzDCH.png" audio-track="spa",T13
 https://tv-mgmt.gtd.cl/bpk-tv/T13/default/index.m3u8
 
 #EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-chno="110" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/24-horas.png" audio-track="spa",24 Horas
 http://181.78.88.113:9800/play/a09o/index.m3u8
+
 #EXTINF:-1 tvg-id="cnn-chile.cl" tvg-name="CNN Chile" tvg-chno="111" group-title="Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" audio-track="spa",CNN Chile
 http://45.236.151.86:3232/play/a170/index.m3u8
 
 # =========================================================
 # DEPORTES
 # =========================================================
+
 #EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" tvg-chno="201" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" audio-track="spa,eng",ESPN HD
 http://181.224.255.210:8001/play/a0sa/index.m3u8
 
@@ -196,10 +202,10 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/533409
 http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-sports.cl" tvg-name="TNT Sports CL" tvg-chno="219" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" audio-track="spa",TNT Sports CL
-http://redworld.pro:8880/live/mauri9283932/QUv5CbFUhjjy/430830.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/CDF/default/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-sports-premium.cl" tvg-name="TNT Sports Premium CL" tvg-chno="220" group-title="Deportes" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" audio-track="spa",TNT Sports Premium CL
-http://179.51.136.19:8000/play/a0px/index.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.m3u8
 
 #EXTINF:-1 tvg-id="tyc-sports.ar" tvg-name="TyC Sports" tvg-chno="221" group-title="Deportes" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" audio-track="spa",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -234,6 +240,7 @@ http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/273686
 # =========================================================
 # CINE Y SERIES (MOVIES)
 # =========================================================
+
 #EXTINF:-1 tvg-id="tcm.lat" tvg-name="TCM" tvg-chno="301" group-title="Cine y Series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" audio-track="spa,eng",TCM
 http://45.186.254.75:8000/play/a03k/index.m3u8
 
@@ -359,6 +366,7 @@ https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg0
 # =========================================================
 # VARIADOS Y CULTURA
 # =========================================================
+
 #EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" audio-track="spa,eng",A&E
 http://177.53.152.117:8000/play/a045/index.m3u8
 
@@ -419,6 +427,7 @@ http://186.148.175.138:8000/play/a05l
 # =========================================================
 # MÚSICA
 # =========================================================
+
 #EXTINF:-1 tvg-id="rewind-tv.cl" tvg-name="Rewind TV" tvg-chno="451" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/rewind-v2.png" audio-track="spa",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
