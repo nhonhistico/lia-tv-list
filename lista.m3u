@@ -275,7 +275,7 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7325
 #EXTINF:-1 tvg-id="hbo-xtreme.lat" tvg-name="HBO Xtreme" tvg-chno="309" group-title="Cine y Series" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" audio-track="spa,eng",HBO Xtreme
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7437
 
-#EXTINF:-1 tvg-id="hbo-pop.lat" tvg-name="HBO Pop" tvg-chno="310" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" audio-track="spa,eng",HBO Pop
+#EXTINF:-1 tvg-id="hbo-pop.lat" tvg-name="HBO Pop" tvg-chno="310" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" audio-track="spa,eng",HBO Pop
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/414471
 
 #EXTINF:-1 tvg-id="space.lat" tvg-name="Space" tvg-chno="311" group-title="Cine y Series" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true" audio-track="spa",Space
