@@ -30,7 +30,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 #EXTINF:-1 tvg-id="funbox.eu" tvg-name="FunBox" tvg-chno="9" group-title="Infantiles" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&auto=format&auto=compress&fit=max" audio-track="eng",FunBox
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
 
-#EXTINF:-1 tvg-id="energeek.cl" tvg-name="EnerGeek" tvg-chno="10" group-title="Infantiles" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" audio-track="spa",EnerGeek
+#EXTINF:-1 tvg-id="energeek.cl" tvg-name="EnerGeek" tvg-chno="10" group-title="Infantiles" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" audio-track="spa",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="etc-tv.cl" tvg-name="ETC TV" tvg-chno="11" group-title="Infantiles" tvg-logo="https://i.imgur.com/AzjSZkc.png" audio-track="spa",ETC TV
