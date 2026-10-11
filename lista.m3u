@@ -352,7 +352,75 @@ http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden" tvg-chno="336" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" audio-track="spa",Golden HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8452
+#------------------------------------------
+#Musica
+#------------------------------------------
+#EXTINF:-1 tvg-id="Totalmusic 80s" tvg-name="Totalmusic 80s" tvg-chno="450" group-title="Música" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png" audio-track="spa",Totalmusic 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-id="rewind-tv.cl" tvg-name="Rewind TV" tvg-chno="451" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/rewind-v2.png" audio-track="spa",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="retro.cl" tvg-name="Retro" tvg-chno="452" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",Retro
+https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
+
+#EXTINF:-1 tvg-id="retro-plus.cl" tvg-name="Retro Plus TV" tvg-chno="453" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" audio-track="spa",Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="vclassic.cl" tvg-name="VClassicTV" tvg-chno="454" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" audio-track="spa",VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="vclassic-tropical.cl" tvg-name="VClassicTV Tropical" tvg-chno="455" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" audio-track="spa",VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="recuerdos-retro.cl" tvg-name="Recuerdos Retro" tvg-chno="456" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" audio-track="spa",Recuerdos Retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UC
+
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Telehit" tvg-chno="457" group-title="Música" tvg-logo="https://i.imgur.com/hZ6IzBA.png" audio-track="spa",Telehit
+http://xstr.cyou/live/Martin49/Silvera49/e7d38ca7-90a7-4e5b-906b-a537cddda703.m3u8
+
+#EXTINF:-1 tvg-id="telehit-musica.mx" tvg-name="Telehit Musica" tvg-chno="458" group-title="Música" tvg-logo="https://i.imgur.com/9f8pSxu.png" audio-track="spa",Telehit Música
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7149
+
+#EXTINF:-1 tvg-id="exa-tv.mx" tvg-name="Exa TV" tvg-chno="459" group-title="Música" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" audio-track="spa",Exa TV
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7349
+
+#EXTINF:-1 tvg-id="foxmix.cl" tvg-name="Portal FoxMix" tvg-chno="460" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" audio-track="spa",Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="xite-hits.nl" tvg-name="XITE Hits" tvg-chno="461" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+
+#EXTINF:-1 tvg-id="xite-nuevo-latino.nl" tvg-name="XITE Nuevo Latino" tvg-chno="462" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="spa",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+
+#EXTINF:-1 tvg-id="latinos-tv.cl" tvg-name="Latinos TV" tvg-chno="463" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png" audio-track="spa",Latinos TV
+https://lbgo.bozztv.com/ssh101/ssh101/latinos2026/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="xite-siempre-latino.nl" tvg-name="XITE Siempre Latino" tvg-chno="464" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="spa",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+
+#EXTINF:-1 tvg-id="xite-80s.nl" tvg-name="XITE 80s" tvg-chno="465" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+
+
+#EXTINF:-1 tvg-id="el-radar.cl" tvg-name="El Radar" tvg-chno="466" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1743_El_Radar.png" audio-track="spa",El Radar
+https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="xite-90s.nl" tvg-name="XITE 90s" tvg-chno="467" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 tvg-id="xite-rock-metal.nl" tvg-name="XITE Rock x Metal" tvg-chno="468" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+
+#EXTINF:-1 tvg-id="xite-just-chill.nl" tvg-name="XITE Just Chill" tvg-chno="469" group-title="Música" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/xite-de.png" audio-track="eng",XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+
+#EXTINF:-1 tvg-id="m1-tv.ua" tvg-name="M1" tvg-chno="470" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/m1.png" audio-track="ukr",M1 TV
+http://stream.mcquack.net/218/index.m3u8
+
+#EXTINF:-1 tvg-id="m2-tv.ua" tvg-name="M2" tvg-chno="471" group-title="Música" tvg-logo="https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/m2.png" audio-track="ukr",M2 TV
+http://stream.mcquack.net/330/index.m3u8
 # -----------------------------------------  
 # 24/7
 # -----------------------------------------
