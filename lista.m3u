@@ -77,37 +77,37 @@ http://167.249.23.102:8000/play/a0h0/index.m3u8
 # ARGENTINA
 # =========================================================
 
-#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-chno="151" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" audio-track="spa",A24 HD
-http://planettvweb.com:8091/Schnyder56/VLap5784d/11865
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-chno="151" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png" audio-track="spa",A24 🇦🇷
+http://181.209.80.115:8000/play/a24
 
-#EXTINF:-1 tvg-id="america-tv.ar" tvg-name="America TV" tvg-chno="152" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/america-ar.png" audio-track="spa",América TV HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490450
+#EXTINF:-1 tvg-id="america-tv.ar" tvg-name="America TV" tvg-chno="152" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/america-ar.png" audio-track="spa",América TV 🇦🇷
+http://45.188.229.33:8000/play/a1a4/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" tvg-chno="153" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C5NHD/EXPORTACION_WEB/SS/C5NHD_t-290x163.png" audio-track="spa",C5N HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490448
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" tvg-chno="153" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C5NHD/EXPORTACION_WEB/SS/C5NHD_t-290x163.png" audio-track="spa",C5N 🇦🇷
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
-#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-chno="154" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/canal-26-ar.png" audio-track="spa",Canal 26
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-chno="154" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/canal-26-ar.png" audio-track="spa",Canal 26 🇦🇷
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="el-nueve.ar" tvg-name="El Nueve" tvg-chno="155" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elnueve-ar.png" audio-track="spa",El Nueve HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490460
+#EXTINF:-1 tvg-id="el-nueve.ar" tvg-name="El Nueve" tvg-chno="155" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elnueve-ar.png" audio-track="spa",El Nueve 🇦🇷
+http://181.115.239.66:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-chno="156" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" audio-track="spa",El Trece HD
+#EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-chno="156" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" audio-track="spa",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="net-tv.ar" tvg-name="Net TV" tvg-chno="157" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NETTV/EXPORTACION_WEB/SS/NETTV_t-290x163.png" audio-track="spa",Net TV HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490459
+#EXTINF:-1 tvg-id="net-tv.ar" tvg-name="Net TV" tvg-chno="157" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NETTV/EXPORTACION_WEB/SS/NETTV_t-290x163.png" audio-track="spa",Net TV
+#http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490459
 
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-chno="158" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" audio-track="spa",Telefe HD
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7630
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-chno="158" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" audio-track="spa",Telefe 🇦🇷
+http://45.173.231.22:8000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="tn.ar" tvg-name="Todo Noticias" tvg-chno="159" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" audio-track="spa",TN HD
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490437
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="Todo Noticias" tvg-chno="159" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" audio-track="spa",TN 🇦🇷
+http://45.188.229.33:8000/play/a1a3/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ln-mas.ar" tvg-name="LN+" tvg-chno="160" group-title="Argentina" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true" audio-track="spa",LN+
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7334
+#EXTINF:-1 tvg-id="ln-mas.ar" tvg-name="LN+" tvg-chno="160" group-title="Argentina" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true" audio-track="spa",LN+ 🇦🇷
+http://lotv.plus:80/play/tPApH_2y8rfTM5JTOBjBg2LpEa-1pXbJFz4yOFcEKOTvrVJC4lPN2kxcRbyA66hz/ts
 
-#EXTINF:-1 tvg-id="tv-publica.ar" tvg-name="TV Publica" tvg-chno="161" group-title="Argentina" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" audio-track="spa",TV Publica
+#EXTINF:-1 tvg-id="tv-publica.ar" tvg-name="TV Publica" tvg-chno="161" group-title="Argentina" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" audio-track="spa",TV Publica 🇦🇷
 http://181.209.80.115:8000/play/tv_publica_hd
 
 # =========================================================
@@ -432,5 +432,5 @@ http://23.153.217.158:8080/998411519tv/pa9qnqi/281126
 
 #EXTINF:-1 tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" group-title="24/7",Yo soy Betty la fea
 #EXTVLCOPT:http-reconnect=true
-http://mundo2.pro/live/iker12/iker12/452451.ts
+#http://mundo2.pro/live/iker12/iker12/452451.ts
 
