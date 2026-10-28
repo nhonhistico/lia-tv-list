@@ -92,14 +92,14 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="el-nueve.ar" tvg-name="El Nueve" tvg-chno="155" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elnueve-ar.png" audio-track="spa",El Nueve 🇦🇷
 http://181.115.239.66:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-chno="156" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" audio-track="spa",El Trece
+#EXTINF:-1 tvg-id="el-trece.ar" tvg-name="El Trece" tvg-chno="156" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" audio-track="spa",El Trece 🇦🇷
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="net-tv.ar" tvg-name="Net TV" tvg-chno="157" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NETTV/EXPORTACION_WEB/SS/NETTV_t-290x163.png" audio-track="spa",Net TV
-#http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/490459
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-chno="158" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" audio-track="spa",Telefe 🇦🇷
-http://45.173.231.22:8000/play/a053/index.m3u8
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tn.ar" tvg-name="Todo Noticias" tvg-chno="159" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" audio-track="spa",TN 🇦🇷
 http://45.188.229.33:8000/play/a1a3/index.m3u8?hls
