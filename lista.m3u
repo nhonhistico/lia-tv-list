@@ -16,7 +16,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-m
 http://181.224.255.210:8001/play/a0oe/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-junior.lat" tvg-name="Nick Jr" tvg-chno="5" group-title="Infantiles" tvg-logo="https://i.imgur.com/KT4tdQs.png" audio-track="spa",Nick Jr
-http://186.33.26.18:8000/play/a0qw/index.m3u8
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png" audio-track="spa",Nickelodeon
 http://45.186.254.75:8000/play/a01a/index.m3u8
@@ -53,24 +53,27 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-medi
 # =========================================================
 
 #EXTINF:-1 tvg-id="dw-espanol.de" tvg-name="DW Español" tvg-chno="50" group-title="Noticias" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" audio-track="spa",DW Español
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7615
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="rt-espanol.ru" tvg-name="RT Español" tvg-chno="51" group-title="Noticias" tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" audio-track="spa",RT Español
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="france24-espanol.fr" tvg-name="France 24" tvg-chno="52" group-title="Noticias" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" audio-track="spa",France 24
+#EXTINF:-1 tvg-id="tv-bricks.ru" tvg-name="TV BRICS" tvg-chno="52" group-title="Noticias" tvg-logo="https://i.imgur.com/vLpm8tN.png" audio-track="spa",TV BRICS
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24-espanol.fr" tvg-name="France 24" tvg-chno="53" group-title="Noticias" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&auto=format&auto=compress&fit=max" audio-track="spa",France 24
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
 
-#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="53" group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" audio-track="spa",CNN en Espanol
-http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7444
+#EXTINF:-1 tvg-id="cnn-espanol.us" tvg-name="CNN en Español" tvg-chno="54" group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" audio-track="spa",CNN en EspaÑol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tve-internacional.es" tvg-name="TVE Internacional" tvg-chno="54" group-title="Noticias" tvg-logo="https://i.imgur.com/zgFOh52.png" audio-track="spa",TVE Internacional
+#EXTINF:-1 tvg-id="tve-internacional.es" tvg-name="TVE Internacional" tvg-chno="55" group-title="Noticias" tvg-logo="https://i.imgur.com/zgFOh52.png" audio-track="spa",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo" tvg-chno="55" group-title="Noticias" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" audio-track="spa",Telemundo Noticias
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo" tvg-chno="56" group-title="Noticias" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" audio-track="spa",Telemundo Noticias
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
 
-#EXTINF:-1 tvg-id="hispantv.ir" tvg-name="HispanTV" tvg-chno="56" group-title="Noticias" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" audio-track="spa",Hispan TV
+#EXTINF:-1 tvg-id="hispantv.ir" tvg-name="HispanTV" tvg-chno="57" group-title="Noticias" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" audio-track="spa",Hispan TV
 http://167.249.23.102:8000/play/a0h0/index.m3u8
 
 # =========================================================
@@ -352,6 +355,67 @@ http://38.44.109.41:8003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden" tvg-chno="336" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" audio-track="spa",Golden HD
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8452
+
+# =========================================================
+# VARIADOS Y CULTURA
+# =========================================================
+#EXTINF:-1 tvg-id="ae.lat" tvg-name="A&E" tvg-chno="401" group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" audio-track="spa,eng",A&E
+http://177.53.152.117:8000/play/a045/index.m3u8
+
+#EXTINF:-1 tvg-id="history-channel.lat" tvg-name="History" tvg-chno="402" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" audio-track="spa,eng",History Channel HD
+http://45.188.229.33:8000/play/a1aq/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="history2.lat" tvg-name="History 2" tvg-chno="403" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" audio-track="spa,eng",History 2 HD
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime.lat" tvg-name="Lifetime" tvg-chno="404" group-title="Cultura" tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" audio-track="spa,eng",Lifetime
+http://45.167.2.101:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-id="universal-reality.lat" tvg-name="Universal Reality" tvg-chno="405" group-title="Cultura" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" audio-track="spa,eng",U+ Reality
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/150071.ts
+
+#EXTINF:-1 tvg-id="e-entertainment.lat" tvg-name="E! Entertainment" tvg-chno="406" group-title="Cultura" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" audio-track="spa,eng",E! Entertainment HD
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+
+#EXTINF:-1 tvg-id="mtv.lat" tvg-name="MTV" tvg-chno="407" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" audio-track="spa,eng",MTV
+http://201.240.104.137:8000/play/a0ah/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-hh.lat" tvg-name="Discovery Home & Health" tvg-chno="408" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" audio-track="spa",Discovery H&H
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7251
+
+#EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" tvg-chno="409" group-title="Cultura" tvg-logo="https://docdog.top/logo/countries/latino/tlc.png" audio-track="spa,eng",TLC
+http://45.186.254.75:8000/play/a0gz/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.lat" tvg-name="HGTV" tvg-chno="410" group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" audio-track="spa,eng",HGTV Latino
+http://181.78.8.199:8000/play/a0je/index.m3u8
+
+#EXTINF:-1 tvg-id="hola-tv.lat" tvg-name="Hola TV" tvg-chno="411" group-title="Cultura" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" audio-track="spa",¡Hola! TV
+http://187.102.211.240:9001/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-id="food-network.lat" tvg-name="Food Network" tvg-chno="412" group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png" audio-track="spa,eng",Food Network
+http://190.61.43.117:45000/play/a08e
+
+#EXTINF:-1 tvg-id="el-gourmet.lat" tvg-name="El Gourmet" tvg-chno="413" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" audio-track="spa",El Gourmet
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7125
+
+#EXTINF:-1 tvg-id="discovery-channel.lat" tvg-name="Discovery Channel" tvg-chno="414" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" audio-track="spa,eng",Discovery
+http://170.247.204.9:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet.lat" tvg-name="Animal Planet" tvg-chno="415" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true" audio-track="spa,eng",Animal Planet
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic.lat" tvg-name="National Geographic" tvg-chno="416" group-title="Cultura" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" audio-track="spa,eng",National Geographic
+http://181.115.239.66:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-investigation.lat" tvg-name="Discovery Investigation" tvg-chno="417" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" audio-track="spa",Discovery ID
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7258
+
+#EXTINF:-1 tvg-id="discovery-theater.lat" tvg-name="Discovery Theater" tvg-chno="418" group-title="Cultura" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true" audio-track="spa,eng",Discovery Theater
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=4153320459&_cdn_token=cce7289b2ba420d27d22294e21fe2e84c9dc099c
+
+#EXTINF:-1 tvg-id="discovery-turbo.lat" tvg-name="Discovery Turbo" tvg-chno="419" group-title="Cultura" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" audio-track="spa",Discovery Turbo
+http://186.148.175.138:8000/play/a05l
+
 #------------------------------------------
 #Musica
 #------------------------------------------
@@ -365,7 +429,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 
 #EXTINF:-1 tvg-id="retro-plus.cl" tvg-name="Retro Plus TV" tvg-chno="453" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" audio-track="spa",Retro Plus
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="vclassic.cl" tvg-name="VClassicTV" tvg-chno="454" group-title="Música" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" audio-track="spa",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
