@@ -388,7 +388,7 @@ http://45.173.231.22:8000/play/a08o/index.m3u8
 http://200.115.120.1:8000/play/ca115/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" tvg-chno="409" group-title="Cultura" tvg-logo="https://docdog.top/logo/countries/latino/tlc.png" audio-track="spa,eng",TLC
-http://38.134.250.110:8000/play/a00n/index.m3u8
+http://181.205.130.194:4000/play/a07p
 
 #EXTINF:-1 tvg-id="hgtv.lat" tvg-name="HGTV" tvg-chno="410" group-title="Cultura" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" audio-track="spa,eng",HGTV Latino
 http://181.78.8.199:8000/play/a0je/index.m3u8
