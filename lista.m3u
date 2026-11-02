@@ -114,7 +114,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-chno="158" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" audio-track="spa",Telefe 🇦🇷
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+http://181.209.80.115:8000/play/telefe_hd
 
 #EXTINF:-1 tvg-id="tn.ar" tvg-name="Todo Noticias" tvg-chno="159" group-title="Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TN/EXPORTACION_WEB/SS/TN_t-290x163.png" audio-track="spa",TN 🇦🇷
 http://45.188.229.33:8000/play/a1a3/index.m3u8?hls
