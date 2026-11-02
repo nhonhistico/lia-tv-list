@@ -363,7 +363,7 @@ http://177.234.218.66:8084/play/a07n/index.m3u8
 http://45.5.117.99:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="fmh-family.lat" tvg-name="FMH Family" tvg-chno="329" group-title="Cine y Series" tvg-logo="https://i.imgur.com/UfsQjYX.png" audio-track="spa",FMH Family
-http://45.186.254.75:8000/play/a07l/index.m3u8
+http://181.78.21.171:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="fmh-movies.lat" tvg-name="FMH Movie" tvg-chno="330" group-title="Cine y Series" tvg-logo="https://i.imgur.com/bfyXXhN.png" audio-track="spa",FMH Movie
 http://45.186.254.75:8000/play/a07j/index.m3u8
