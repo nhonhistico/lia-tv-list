@@ -16,7 +16,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-m
 http://181.224.255.210:8001/play/a0oe/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-junior.lat" tvg-name="Nick Jr" tvg-chno="5" group-title="Infantiles" tvg-logo="https://i.imgur.com/KT4tdQs.png" audio-track="spa",Nick Jr
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+https://tv-mgmt.gtd.cl/bpk-tv/NICKJR/default/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" tvg-chno="6" group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png" audio-track="spa",Nickelodeon
 http://45.186.254.75:8000/play/a01a/index.m3u8
@@ -31,7 +31,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=4152474835&_cdn_token=8f3756efa283cb8e44375e794af34246be3a853f
 
 #EXTINF:-1 tvg-id="funbox.eu" tvg-name="FunBox" tvg-chno="10" group-title="Infantiles" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&auto=format&auto=compress&fit=max" audio-track="eng",FunBox
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
+http://200.48.65.77:8000/play/a00f
 
 #EXTINF:-1 tvg-id="energeek.cl" tvg-name="EnerGeek" tvg-chno="11" group-title="Infantiles" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" audio-track="spa",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
