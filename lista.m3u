@@ -42,7 +42,7 @@ http://45.4.3.177:9999/play/a0ge
 #EXTINF:-1 tvg-id="adult-swim.lat" tvg-name="Adult Swim" tvg-chno="13" group-title="Infantiles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" audio-track="spa,eng",Adult Swim
 http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="bit-me.lat" tvg-name="Bit Me" tvg-chno="14" group-title="Infantiles" tvg-logo="https://logowik.com/content/uploads/images/bitme6265.logowik.com.webp" audio-track="spa",BitMe
+#EXTINF:-1 tvg-id="bit-me.lat" tvg-name="Bit Me" tvg-chno="14" group-title="Infantiles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/bitme-lam.png" audio-track="spa",BitMe
 http://200.48.65.77:8000/play/a020
 
 #EXTINF:-1 tvg-id="fmh-kids.lat" tvg-name="FMH Kids" tvg-chno="15" group-title="Infantiles" tvg-logo="https://i.imgur.com/G4tyHw8.png" audio-track="spa",FMH Kids
