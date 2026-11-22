@@ -1537,7 +1537,6 @@
       "http://181.78.88.113:9800/play/a0el/index.m3u8"
     ]
   },
-
   {
     "name": "Star Channel",
     "group": "Cine y Series",
@@ -1576,9 +1575,6 @@
       "http://45.188.229.33:8000/play/a10h/index.m3u8"
     ]
   },
-
-
-  
   {
     "name": "Europa Europa",
     "group": "Cine y Series",
@@ -1836,8 +1832,8 @@
   },
   {
     "name": "Malcolm in the middle",
-    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560",
     "group": "24/7 🇺🇸",
+    "logoUrl": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560",
     "urls": [
       "http://23.153.217.158:8080/998411519tv/pa9qnqi/281253"
     ]
