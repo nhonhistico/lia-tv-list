@@ -73,6 +73,7 @@
     "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",
     "urls": [
       "https://tv-mgmt.gtd.cl/bpk-tv/DISNEY/default/index.m3u8",
+      "http://181.224.255.210:8001/play/a0oe/index.m3u8",
       "http://200.48.65.77:8000/play/a00w",
       "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
       "http://191.97.49.82:8001/play/a00e/index.m3u8",
