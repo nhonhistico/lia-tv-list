@@ -56,7 +56,7 @@
     "group": "Infantiles",
     "logoUrl": "https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&auto=format&auto=compress&fit=max",
     "urls": [
-      "http://200.48.65.77:8000/play/a00f"
+      "https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16"
     ]
   },
   {
