@@ -1332,7 +1332,6 @@
     "group": "Cine y Series",
     "logoUrl": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",
     "urls": [
-      "https://tv-mgmt.gtd.cl/bpk-tv/HBO/default/index.m3u8",
       "http://181.78.88.113:9800/play/a0fk/index.m3u8",
       "http://200.48.65.77:8000/play/a01x",
       "http://200.48.65.77:8000/play/a004",
@@ -1345,7 +1344,6 @@
     "group": "Cine y Series",
     "logoUrl": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",
     "urls": [
-      "https://tv-mgmt.gtd.cl/bpk-tv/HBO2/default/index.m3u8",
       "http://181.78.88.113:9800/play/a0fk/index.m3u8",
       "http://45.189.151.7:8000/play/a06v/index.m3u8",
       "http://181.78.88.113:9800/play/a0fb/index.m3u8"
